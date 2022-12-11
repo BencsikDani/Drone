@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=11.1V Pin=TVS-1
+Removed Pin From Net: NetName=GND Pin=TVS-2
+Change Component Footprint: Designator=TVS Old Footprint=DIOMELF3515M New Footprint=FP_SMA
+Added Pin To Net: NetName=GND Pin=TVS-A
+Added Pin To Net: NetName=11.1V Pin=TVS-K

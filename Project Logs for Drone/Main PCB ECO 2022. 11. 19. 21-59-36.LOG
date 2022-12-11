@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=U_Sensors Member=R6
+Removed Member From Class: ClassName=U_Connectors Member=R8
+Added Member To Class: ClassName=U_Sensors Member=Component R1 1K
+Added Member To Class: ClassName=U_Sensors Member=Component R3 10K
+Added Member To Class: ClassName=U_Connectors Member=Component R4 4K70
+Added Member To Class: ClassName=U_Connectors Member=Component R5 10K
+Added Member To Class: ClassName=U_Connectors Member=Component R7 10K

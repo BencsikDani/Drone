@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GPIO_PF5 Pin=P16-1
+Removed Pin From Net: NetName=GPIO_PF6 Pin=P16-2
+Removed Pin From Net: NetName=GPIO_PF7 Pin=P16-3
+Removed Pin From Net: NetName=GPIO_PG5 Pin=P20-1
+Removed Pin From Net: NetName=GPIO_PG6 Pin=P20-2
+Removed Pin From Net: NetName=GPIO_PG7 Pin=P20-3
+Added Pin To Net: NetName=GPIO_PF4 Pin=P16-1
+Added Pin To Net: NetName=GPIO_PF5 Pin=P16-2
+Added Pin To Net: NetName=GPIO_PF6 Pin=P16-3
+Added Pin To Net: NetName=GPIO_PF7 Pin=P16-4
+Added Pin To Net: NetName=GPIO_PG4 Pin=P20-1
+Added Pin To Net: NetName=GPIO_PG5 Pin=P20-2
+Added Pin To Net: NetName=GPIO_PG6 Pin=P20-3
+Added Pin To Net: NetName=GPIO_PG7 Pin=P20-4

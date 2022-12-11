@@ -1,0 +1,9 @@
+Added Component: Designator=TVS(FP_SMB)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin SCH-1
+Add Pin To Net: Unknown Pin: Pin SCH-2
+Added Pin To Net: NetName=GND Pin=TVS-A
+Added Pin To Net: NetName=NetBATT_2 Pin=TVS-K
+Added Member To Class: ClassName=U_PowerSupply Member=Component TVS

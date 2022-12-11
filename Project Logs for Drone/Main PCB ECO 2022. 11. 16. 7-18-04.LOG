@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=BATT1-1
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=D1-K
+Removed Pin From Net: NetName=GND Pin=DDC1-1
+Removed Pin From Net: NetName=11.1V Pin=DDC1-4
+Removed Pin From Net: NetName=5V Pin=DDC1-5
+Removed Pin From Net: NetName=GND Pin=DDC1-7
+Removed Pin From Net: NetName=GND Pin=DDC2-1
+Removed Pin From Net: NetName=11.1V Pin=DDC2-4
+Removed Pin From Net: NetName=3.3V Pin=DDC2-5
+Removed Pin From Net: NetName=GND Pin=DDC2-7
+Removed Pin From Net: NetName=GND Pin=TVS1-2
+Removed Member From Class: ClassName=U_PowerSupply Member=DDC1
+Removed Member From Class: ClassName=U_PowerSupply Member=DDC2
+Change Component Designator: OldDesignator=PE NewDesignator=PE1
+Added Component: Designator=DC5V(TSR-1-24XX)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://tracopower.com/tsr1e-datasheet/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "10.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Traco Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSR 1-2450E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "495-TSR1-2450E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TRACO-Power/TSR-1-2450E?qs=vmHwEFxEFR%2FlQnbAtEoeVA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=DV3.3V(TSR-1-24XX)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://tracopower.com/tsr1e-datasheet/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Traco Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSR 1-2433E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "495-TSR1-2433E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TRACO-Power/TSR-1-2433E?qs=vmHwEFxEFR9haWIzn8wG3A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=11.1V Pin=DC5V-1
+Added Pin To Net: NetName=5V Pin=DC5V-3
+Added Pin To Net: NetName=11.1V Pin=DV3.3V-1
+Added Pin To Net: NetName=3.3V Pin=DV3.3V-3
+Added Pin To Net: NetName=NetBATT1_1 Pin=BATT1-1
+Added Pin To Net: NetName=NetBATT1_1 Pin=C14-1
+Added Pin To Net: NetName=NetBATT1_1 Pin=D1-K
+Added Pin To Net: NetName=NetBATT1_1 Pin=DC5V-2
+Added Pin To Net: NetName=NetBATT1_1 Pin=DV3.3V-2
+Added Pin To Net: NetName=NetBATT1_1 Pin=TVS1-2
+Added Net: Name=NetBATT1_1
+Added Member To Class: ClassName=U_PowerSupply Member=Component DC5V TSR_1-2450E
+Added Member To Class: ClassName=U_PowerSupply Member=Component DV3.3V TSR_1-2433E

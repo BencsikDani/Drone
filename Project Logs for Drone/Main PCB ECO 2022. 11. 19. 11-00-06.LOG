@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=STM32-138
+Removed Member From Class: ClassName=U_STM_ESP Member=B1
+Removed Member From Class: ClassName=U_STM_ESP Member=C13
+Removed Member From Class: ClassName=U_Connectors Member=PB1
+Removed Member From Class: ClassName=U_STM_ESP Member=R3
+Removed Member From Class: ClassName=U_STM_ESP Member=R4
+Change Component Designator: OldDesignator=BH NewDesignator=BH1
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=C12 NewDesignator=C11
+Change Component Designator: OldDesignator=C13 NewDesignator=C12
+Change Component Designator: OldDesignator=DIS NewDesignator=PDIS1
+Change Component Designator: OldDesignator=GPS NewDesignator=PGPS1
+Change Component Designator: OldDesignator=IMU NewDesignator=IMU1
+Change Component Designator: OldDesignator=MAG NewDesignator=MAG1
+Change Component Designator: OldDesignator=PA2 NewDesignator=PB1
+Change Component Designator: OldDesignator=PM NewDesignator=PM1
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=SENS NewDesignator=SENS1
+Change Component Designator: OldDesignator=SERV NewDesignator=SERV1
+Change Component Designator: OldDesignator=STM32 NewDesignator=U1
+Added Component: Designator=C13(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DEB(FP_CONN5x2_TUSKE_254MM)
+Added Component: Designator=PBOOT0(FP_CONN3_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PBOOT1(FP_CONN3_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PRST(FP_CONN3_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=DEB-5
+Added Pin To Net: NetName=GND Pin=DEB-6
+Added Pin To Net: NetName=3.3V Pin=DEB-7
+Added Pin To Net: NetName=3.3V Pin=DEB-8
+Added Pin To Net: NetName=5V Pin=DEB-9
+Added Pin To Net: NetName=5V Pin=DEB-10
+Added Pin To Net: NetName=3.3V Pin=PBOOT0-1
+Added Pin To Net: NetName=GND Pin=PBOOT0-3
+Added Pin To Net: NetName=3.3V Pin=PBOOT1-1
+Added Pin To Net: NetName=GND Pin=PBOOT1-3
+Change Net Name : Old Net Name=GPIO_PA11 New Net Name=NetPA1_3
+Change Net Name : Old Net Name=GPIO_PA12 New Net Name=NetPA1_4
+Change Net Name : Old Net Name=GPIO_PB5 New Net Name=NetPB2_1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC12_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=PRST-1
+Added Pin To Net: NetName=NetC13_2 Pin=R3-1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetDEB_1 Pin=DEB-1
+Added Pin To Net: NetName=NetDEB_1 Pin=PRST-3
+Added Net: Name=NetDEB_1
+Added Pin To Net: NetName=NetDEB_2 Pin=DEB-2
+Added Pin To Net: NetName=NetDEB_2 Pin=U1-109
+Added Net: Name=NetDEB_2
+Added Pin To Net: NetName=NetDEB_3 Pin=DEB-3
+Added Pin To Net: NetName=NetDEB_3 Pin=U1-133
+Added Net: Name=NetDEB_3
+Added Pin To Net: NetName=NetDEB_4 Pin=DEB-4
+Added Pin To Net: NetName=NetDEB_4 Pin=U1-105
+Added Net: Name=NetDEB_4
+Added Pin To Net: NetName=NetPB1_1 Pin=PB1-1
+Added Pin To Net: NetName=NetPB1_1 Pin=U1-110
+Added Net: Name=NetPB1_1
+Added Pin To Net: NetName=NetPB1_2 Pin=PB1-2
+Added Pin To Net: NetName=NetPB1_2 Pin=U1-46
+Added Net: Name=NetPB1_2
+Added Pin To Net: NetName=NetPB1_3 Pin=PB1-3
+Added Pin To Net: NetName=NetPB1_3 Pin=U1-47
+Added Net: Name=NetPB1_3
+Added Pin To Net: NetName=NetPB1_4 Pin=PB1-4
+Added Pin To Net: NetName=NetPB1_4 Pin=U1-134
+Added Net: Name=NetPB1_4
+Added Pin To Net: NetName=NetPBOOT0_2 Pin=PBOOT0-2
+Added Pin To Net: NetName=NetPBOOT0_2 Pin=R5-1
+Added Net: Name=NetPBOOT0_2
+Added Pin To Net: NetName=NetPBOOT1_2 Pin=PBOOT1-2
+Added Pin To Net: NetName=NetPBOOT1_2 Pin=R6-1
+Added Net: Name=NetPBOOT1_2
+Added Pin To Net: NetName=NetPRST_2 Pin=PRST-2
+Added Pin To Net: NetName=NetPRST_2 Pin=U1-25
+Added Net: Name=NetPRST_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U1-138
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U1-48
+Added Net: Name=NetR6_2
+Added Member To Class: ClassName=U_Connectors Member=Component B1 Button
+Added Member To Class: ClassName=U_Connectors Member=Component C13 2.2uF
+Added Member To Class: ClassName=U_Connectors Member=Component DEB ST-LINK-V2-CL
+Added Member To Class: ClassName=U_Connectors Member=Component PBOOT0 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component PBOOT1 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component PRST Connector
+Added Member To Class: ClassName=U_Connectors Member=Component R3 4K70
+Added Member To Class: ClassName=U_Connectors Member=Component R4 10K
+Added Member To Class: ClassName=U_Connectors Member=Component R5 10K
+Added Member To Class: ClassName=U_Connectors Member=Component R6 10K

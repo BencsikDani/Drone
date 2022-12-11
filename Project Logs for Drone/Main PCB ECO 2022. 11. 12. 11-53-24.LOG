@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GPIO_PE5 Pin=P12-1
+Removed Pin From Net: NetName=GPIO_PE6 Pin=P12-2
+Removed Pin From Net: NetName=GPIO_PE7 Pin=P12-3
+Change Component Designator: OldDesignator=B? NewDesignator=GD1
+Change Component Designator: OldDesignator=BATT NewDesignator=BATT1
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C8 NewDesignator=C5
+Change Component Designator: OldDesignator=C9 NewDesignator=C4
+Change Component Designator: OldDesignator=C10 NewDesignator=C8
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=C12 NewDesignator=C11
+Change Component Designator: OldDesignator=C13 NewDesignator=C9
+Change Component Designator: OldDesignator=C14 NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=IMU NewDesignator=IMU1
+Change Component Designator: OldDesignator=MAG NewDesignator=MAG1
+Change Component Designator: OldDesignator=PDIS NewDesignator=PDIS1
+Change Component Designator: OldDesignator=PGPS NewDesignator=PGPS1
+Change Component Designator: OldDesignator=PM NewDesignator=PM1
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=SENS NewDesignator=SENS1
+Change Component Designator: OldDesignator=SERV NewDesignator=SERV1
+Added Pin To Net: NetName=GPIO_PE4 Pin=P12-1
+Added Pin To Net: NetName=GPIO_PE5 Pin=P12-2
+Added Pin To Net: NetName=GPIO_PE6 Pin=P12-3
+Added Pin To Net: NetName=GPIO_PE7 Pin=P12-4
+Change Net Name : Old Net Name=NetB?_2 New Net Name=NetGD1_2
+Change Net Name : Old Net Name=NetB?_6 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetBATT_2 New Net Name=NetBATT1_2
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetIMU_4 New Net Name=NetIMU1_4
+Change Net Name : Old Net Name=NetIMU_5 New Net Name=NetIMU1_5
+Change Net Name : Old Net Name=NetIMU_6 New Net Name=NetIMU1_6
+Change Net Name : Old Net Name=NetIMU_7 New Net Name=NetIMU1_7
+Change Net Name : Old Net Name=NetIMU_8 New Net Name=NetIMU1_8
+Change Net Name : Old Net Name=NetMAG_3 New Net Name=NetMAG1_3
+Change Net Name : Old Net Name=NetMAG_4 New Net Name=NetMAG1_4
+Change Net Name : Old Net Name=NetMAG_5 New Net Name=NetMAG1_5
+Change Net Name : Old Net Name=NetPDIS_2 New Net Name=NetPDIS1_2
+Change Net Name : Old Net Name=NetPDIS_3 New Net Name=NetPDIS1_3
+Change Net Name : Old Net Name=NetPGPS_1 New Net Name=NetPGPS1_1
+Change Net Name : Old Net Name=NetPGPS_2 New Net Name=NetPGPS1_2
+Change Net Name : Old Net Name=NetPGPS_3 New Net Name=NetPGPS1_3
+Change Net Name : Old Net Name=NetPM_1 New Net Name=NetPM1_1
+Change Net Name : Old Net Name=NetSENS_3 New Net Name=NetSENS1_3
+Change Net Name : Old Net Name=NetSERV_3 New Net Name=NetSERV1_3
+Added Member To Class: ClassName=U_Sensors Member=Component C6 4.7µF
+Added Room: Name=U_Connectors
+Added Room: Name=U_PowerSupply
+Added Room: Name=U_Sensors
+Added Room: Name=U_STM_ESP

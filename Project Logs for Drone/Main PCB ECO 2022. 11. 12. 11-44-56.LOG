@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=5V Pin=Q1-D
+Removed Member From Class: ClassName=U_Sensors Member=C3
+Removed Member From Class: ClassName=U_Sensors Member=C5
+Removed Member From Class: ClassName=U_Sensors Member=C6
+Removed Member From Class: ClassName=U_Sensors Member=C7
+Removed Member From Class: ClassName=U_Sensors Member=Q1
+Added Component: Designator=B?(DIP781W56P254L950H533Q8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21424d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "5.334mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TC4431VPA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-TC4431VPA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/TC4431VPA?qs=dJbzCyn%252BCFb0mSWY4MWPfw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PM(TO254P483X1028X2284-3P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/discrete_mosfets/littelfuse_discrete_mosfets_p-channel_ixt_120p065t_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IXTP120P065T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "747-IXTP120P065T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/IXYS/IXTP120P065T?qs=cvHLLyFtoE09fNdm%2Fv8mrw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=11.1V Pin=B?-1
+Added Pin To Net: NetName=GND Pin=B?-3
+Added Pin To Net: NetName=GND Pin=B?-4
+Added Pin To Net: NetName=GND Pin=B?-5
+Added Pin To Net: NetName=11.1V Pin=B?-8
+Added Pin To Net: NetName=GND Pin=BATT-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=11.1V Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=GND Pin=DDC1-1
+Added Pin To Net: NetName=GND Pin=DDC2-1
+Added Pin To Net: NetName=GND Pin=TVS1-2
+Added Pin To Net: NetName=NetB?_2 Pin=B?-2
+Added Pin To Net: NetName=NetB?_2 Pin=U1-98
+Added Net: Name=NetB?_2
+Added Pin To Net: NetName=NetB?_6 Pin=B?-6
+Added Pin To Net: NetName=NetB?_6 Pin=B?-7
+Added Pin To Net: NetName=NetB?_6 Pin=C?-2
+Added Pin To Net: NetName=NetB?_6 Pin=R1-1
+Added Net: Name=NetB?_6
+Added Pin To Net: NetName=NetPM_1 Pin=PM-1
+Added Pin To Net: NetName=NetPM_1 Pin=R1-2
+Added Pin To Net: NetName=NetPM_1 Pin=R2-2
+Added Net: Name=NetPM_1
+Added Member To Class: ClassName=U_Sensors Member=Component B? TC4431VPA
+Added Member To Class: ClassName=U_Sensors Member=Component C? 4.7µF
+Added Member To Class: ClassName=U_Sensors Member=Component C? 1nF
+Added Member To Class: ClassName=U_Sensors Member=Component PM IXTP120P065T
+Added Room: Name=U_Connectors
+Added Room: Name=U_PowerSupply
+Added Room: Name=U_Sensors
+Added Room: Name=U_STM_ESP

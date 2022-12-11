@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=Battery1 NewDesignator=BATT
+Add Pin To Net: Unknown Pin: Pin PGPS-5
+Change Net Name : Old Net Name=NetBattery1_2 New Net Name=NetBATT_2

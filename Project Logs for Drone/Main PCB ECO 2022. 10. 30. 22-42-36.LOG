@@ -1,0 +1,10 @@
+Added Component: Designator=PGPS(FP_CONN5_TUSKE_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetPGPS_1 Pin=PGPS-1
+Added Pin To Net: NetName=NetPGPS_2 Pin=PGPS-2
+Added Pin To Net: NetName=NetPGPS_3 Pin=PGPS-3
+Added Pin To Net: NetName=GND Pin=PGPS-4
+Added Pin To Net: NetName=5V Pin=PGPS-5
+Added Member To Class: ClassName=U_Sensors Member=Component PGPS Connector

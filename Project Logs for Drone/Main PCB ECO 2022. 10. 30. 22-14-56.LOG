@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=P8 NewDesignator=P11
+Change Component Designator: OldDesignator=P9 NewDesignator=P15
+Change Component Designator: OldDesignator=P10 NewDesignator=P19
+Change Component Designator: OldDesignator=P11 NewDesignator=P8
+Change Component Designator: OldDesignator=P13 NewDesignator=P16
+Change Component Designator: OldDesignator=P14 NewDesignator=P20
+Change Component Designator: OldDesignator=P15 NewDesignator=P9
+Change Component Designator: OldDesignator=P16 NewDesignator=P13
+Change Component Designator: OldDesignator=P18 NewDesignator=P21
+Change Component Designator: OldDesignator=P19 NewDesignator=P24
+Change Component Designator: OldDesignator=P20 NewDesignator=P28
+Change Component Designator: OldDesignator=P21 NewDesignator=P10
+Change Component Designator: OldDesignator=P22 NewDesignator=P14
+Change Component Designator: OldDesignator=P23 NewDesignator=P18
+Change Component Designator: OldDesignator=P24 NewDesignator=P22
+Change Component Designator: OldDesignator=P26 NewDesignator=P29
+Change Component Designator: OldDesignator=P27 NewDesignator=P26
+Change Component Designator: OldDesignator=P28 NewDesignator=P30
+Change Component Designator: OldDesignator=P29 NewDesignator=P23
+Change Component Designator: OldDesignator=P30 NewDesignator=P27
+Add Pin To Net: Unknown Pin: Pin PGPS-5
+Change Net Name : Old Net Name=NetP29_1 New Net Name=NetP23_1
+Change Net Name : Old Net Name=NetP29_2 New Net Name=NetP23_2

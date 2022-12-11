@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=U_Connectors Member=C12
+Removed Member From Class: ClassName=U_Connectors Member=R7
+Change Component Designator: OldDesignator=U1 NewDesignator=STM32
+Change Net Name : Old Net Name=NetB1_3 New Net Name=NetBTN_3
+Change Net Name : Old Net Name=NetBATT1_2 New Net Name=NetBATT_2
+Change Net Name : Old Net Name=NetBH1_+ New Net Name=NetBH_+
+Change Net Name : Old Net Name=NetGD1_2 New Net Name=NetGD_2
+Change Net Name : Old Net Name=NetIMU1_4 New Net Name=NetIMU_4
+Change Net Name : Old Net Name=NetIMU1_5 New Net Name=NetIMU_5
+Change Net Name : Old Net Name=NetIMU1_6 New Net Name=NetIMU_6
+Change Net Name : Old Net Name=NetIMU1_7 New Net Name=NetIMU_7
+Change Net Name : Old Net Name=NetIMU1_8 New Net Name=NetIMU_8
+Change Net Name : Old Net Name=NetMAG1_3 New Net Name=NetMAG_3
+Change Net Name : Old Net Name=NetMAG1_4 New Net Name=NetMAG_4
+Change Net Name : Old Net Name=NetMAG1_5 New Net Name=NetMAG_5
+Change Net Name : Old Net Name=NetPDIS1_2 New Net Name=NetPDIS_2
+Change Net Name : Old Net Name=NetPDIS1_3 New Net Name=NetPDIS_3
+Change Net Name : Old Net Name=NetPGPS1_1 New Net Name=NetPGPS_1
+Change Net Name : Old Net Name=NetPGPS1_2 New Net Name=NetPGPS_2
+Change Net Name : Old Net Name=NetPGPS1_3 New Net Name=NetPGPS_3
+Change Net Name : Old Net Name=NetPM1_1 New Net Name=NetPM_1
+Change Net Name : Old Net Name=NetSENS1_3 New Net Name=NetSENS_3
+Change Net Name : Old Net Name=NetSERV1_3 New Net Name=NetSERV_3
+Added Member To Class: ClassName=U_STM_ESP Member=Component C10 2.2uF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C12 2.2uF
+Added Member To Class: ClassName=U_Connectors Member=Component C13 2.2uF
+Added Member To Class: ClassName=U_Connectors Member=Component PB1 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component R5 10K

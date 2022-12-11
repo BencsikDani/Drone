@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=U_Connectors Member=C12
+Removed Member From Class: ClassName=U_Connectors Member=R7
+Change Component Footprint: Designator=PBOOT0 Old Footprint=FP_CONN3_TAP_254MM New Footprint=FP_CONN3_TUSKE_254MM
+Change Component Footprint: Designator=PBOOT1 Old Footprint=FP_CONN3_TAP_254MM New Footprint=FP_CONN3_TUSKE_254MM
+Change Component Footprint: Designator=PRST Old Footprint=FP_CONN3_TAP_254MM New Footprint=FP_CONN3_TUSKE_254MM
+Added Member To Class: ClassName=U_STM_ESP Member=Component C10 2.2uF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C12 2.2uF
+Added Member To Class: ClassName=U_Connectors Member=Component C13 2.2uF
+Added Member To Class: ClassName=U_Connectors Member=Component PB1 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component R5 10K
+Added Member To Class: ClassName=U_STM_ESP Member=Component U1 STM32F407ZGT6

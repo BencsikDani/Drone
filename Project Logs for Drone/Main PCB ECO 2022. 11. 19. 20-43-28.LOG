@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=11.1V Pin=F1-1
+Removed Pin From Net: NetName=NetBATT_2 Pin=F1-2
+Removed Pin From Net: NetName=11.1V Pin=TVS-K
+Removed Member From Class: ClassName=U_PowerSupply Member=F1
+Change Footprint: Cannot match pads with new footprint in component :TVS Footprint:FP_SMB
+Added Component: Designator=FUSE(ECE BU110 PolyFuse)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SCH(FP_SMA)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBATT_2 Pin=FUSE-1
+Add Pin To Net: Unknown Pin: Pin SCH-1
+Added Pin To Net: NetName=NetBATT_2 Pin=TVS-K
+Added Pin To Net: NetName=NetFUSE_2 Pin=FUSE-2
+Added Net: Name=NetFUSE_2
+Added Member To Class: ClassName=U_PowerSupply Member=Component FUSE
+Added Member To Class: ClassName=U_PowerSupply Member=Component SCH SCHOTTKY

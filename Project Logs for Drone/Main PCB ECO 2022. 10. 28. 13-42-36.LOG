@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=Battery1 Old Footprint=FP_CONN2_TAP_254MM New Footprint=FP_CONN2_SORK_3.81MM
+Change Component Footprint: Designator=ESC1 Old Footprint=FP_CONN3_TAP_254MM New Footprint=FP_CONN3_TUSKE_254MM
+Change Component Footprint: Designator=ESC2 Old Footprint=FP_CONN3_TAP_254MM New Footprint=FP_CONN3_TUSKE_254MM
+Change Component Footprint: Designator=ESC3 Old Footprint=FP_CONN3_TAP_254MM New Footprint=FP_CONN3_TUSKE_254MM
+Change Component Footprint: Designator=ESC4 Old Footprint=FP_CONN3_TAP_254MM New Footprint=FP_CONN3_TUSKE_254MM
+Change Component Footprint: Designator=SENS1 Old Footprint=FP_CONN3_TAP_254MM New Footprint=FP_CONN3_TUSKE_254MM
+Change Component Footprint: Designator=SERV1 Old Footprint=FP_CONN3_TAP_254MM New Footprint=FP_CONN3_TUSKE_254MM

@@ -1,0 +1,1011 @@
+Added Component: Designator=B1(FP_BTN_SMD)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Battery1(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BH1(ONLAB_ELEMTARTO)
+Added Component: Designator=C1(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(FP_0805_LED_RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DDC1(PQP3D12S3D)
+Added Component: Designator=DDC2(PQP3D12S3D)
+Added Component: Designator=DIS1(XCVR_HC-SR04)
+Added Component: Designator=ESC1(FP_CONN3_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ESC2(FP_CONN3_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ESC3(FP_CONN3_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ESC4(FP_CONN3_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ESP32S1(ESP32-DEVKITC-32D)
+Added Component: Designator=F1(FP_MULTIFUSE)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=GPS1(NEO-7M-0-000)
+Added Component: Designator=IMU1(GY-91)
+Added Component: Designator=MAG1(GY-271)
+Added Component: Designator=P1(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P2(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P3(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P4(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P5(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P6(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P7(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P8(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P9(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P10(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P11(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P12(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P13(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P14(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P15(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P16(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P17(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P18(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P19(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P20(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P21(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P22(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P23(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P24(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P25(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P26(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P27(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P28(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P29(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P30(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P31(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P32(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P33(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P34(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P35(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P36(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P37(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P38(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P39(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P40(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P41(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P42(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P43(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P44(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P45(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P46(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P47(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P48(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P49(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P50(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P51(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P52(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P53(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P54(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P55(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P56(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P57(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P58(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P59(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P60(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1(ONLAB_2N7002_SOT23127P600-8N)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(FP_0805_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "130R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(FP_0805_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(FP_0805_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(FP_0805_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4K70"; VariantName = "[No Variations]"
+Added Component: Designator=R5(FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=SENS1(FP_CONN3_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SERV1(FP_CONN3_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TVS1(DIOMELF3515M)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_Z"; Value = "24"; VariantName = "[No Variations]"
+Added Component: Designator=U1(LQFP144-20x20mm)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F407ZGT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C2-2
+Added Pin To Net: NetName=3.3V Pin=C11-2
+Added Pin To Net: NetName=3.3V Pin=DDC2-5
+Added Pin To Net: NetName=3.3V Pin=ESP32S1-1
+Added Pin To Net: NetName=3.3V Pin=IMU1-2
+Added Pin To Net: NetName=3.3V Pin=R3-2
+Added Pin To Net: NetName=3.3V Pin=U1-17
+Added Pin To Net: NetName=3.3V Pin=U1-30
+Added Pin To Net: NetName=3.3V Pin=U1-32
+Added Pin To Net: NetName=3.3V Pin=U1-33
+Added Pin To Net: NetName=3.3V Pin=U1-39
+Added Pin To Net: NetName=3.3V Pin=U1-52
+Added Pin To Net: NetName=3.3V Pin=U1-62
+Added Pin To Net: NetName=3.3V Pin=U1-72
+Added Pin To Net: NetName=3.3V Pin=U1-84
+Added Pin To Net: NetName=3.3V Pin=U1-95
+Added Pin To Net: NetName=3.3V Pin=U1-108
+Added Pin To Net: NetName=3.3V Pin=U1-121
+Added Pin To Net: NetName=3.3V Pin=U1-131
+Added Pin To Net: NetName=3.3V Pin=U1-143
+Added Pin To Net: NetName=3.3V Pin=U1-144
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C4-2
+Added Pin To Net: NetName=5V Pin=C8-1
+Added Pin To Net: NetName=5V Pin=C9-2
+Added Pin To Net: NetName=5V Pin=DDC1-5
+Added Pin To Net: NetName=5V Pin=DIS1-1
+Added Pin To Net: NetName=5V Pin=ESP32S1-19
+Added Pin To Net: NetName=5V Pin=GPS1-1
+Added Pin To Net: NetName=5V Pin=IMU1-1
+Added Pin To Net: NetName=5V Pin=MAG1-1
+Added Pin To Net: NetName=5V Pin=Q1-D
+Added Net: Name=5V
+Added Pin To Net: NetName=11.1V Pin=C14-2
+Added Pin To Net: NetName=11.1V Pin=DDC1-4
+Added Pin To Net: NetName=11.1V Pin=DDC2-4
+Added Pin To Net: NetName=11.1V Pin=F1-1
+Added Pin To Net: NetName=11.1V Pin=R5-2
+Added Pin To Net: NetName=11.1V Pin=TVS1-1
+Added Net: Name=11.1V
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=GND Pin=BH1--
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=DDC1-7
+Added Pin To Net: NetName=GND Pin=DDC2-7
+Added Pin To Net: NetName=GND Pin=DIS1-4
+Added Pin To Net: NetName=GND Pin=ESC1-1
+Added Pin To Net: NetName=GND Pin=ESC2-1
+Added Pin To Net: NetName=GND Pin=ESC3-1
+Added Pin To Net: NetName=GND Pin=ESC4-1
+Added Pin To Net: NetName=GND Pin=ESP32S1-14
+Added Pin To Net: NetName=GND Pin=ESP32S1-20
+Added Pin To Net: NetName=GND Pin=ESP32S1-26
+Added Pin To Net: NetName=GND Pin=GPS1-2
+Added Pin To Net: NetName=GND Pin=IMU1-3
+Added Pin To Net: NetName=GND Pin=MAG1-2
+Added Pin To Net: NetName=GND Pin=P59-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=SENS1-1
+Added Pin To Net: NetName=GND Pin=SERV1-1
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=GND Pin=U1-51
+Added Pin To Net: NetName=GND Pin=U1-61
+Added Pin To Net: NetName=GND Pin=U1-83
+Added Pin To Net: NetName=GND Pin=U1-94
+Added Pin To Net: NetName=GND Pin=U1-107
+Added Pin To Net: NetName=GND Pin=U1-120
+Added Pin To Net: NetName=GND Pin=U1-130
+Added Pin To Net: NetName=GND Pin=U1-138
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO_PA11 Pin=P4-1
+Added Pin To Net: NetName=GPIO_PA11 Pin=U1-103
+Added Net: Name=GPIO_PA11
+Added Pin To Net: NetName=GPIO_PA12 Pin=P4-2
+Added Pin To Net: NetName=GPIO_PA12 Pin=U1-104
+Added Net: Name=GPIO_PA12
+Added Pin To Net: NetName=GPIO_PA13 Pin=P7-1
+Added Pin To Net: NetName=GPIO_PA13 Pin=U1-105
+Added Net: Name=GPIO_PA13
+Added Pin To Net: NetName=GPIO_PA14 Pin=P7-2
+Added Pin To Net: NetName=GPIO_PA14 Pin=U1-109
+Added Net: Name=GPIO_PA14
+Added Pin To Net: NetName=GPIO_PA15 Pin=P14-1
+Added Pin To Net: NetName=GPIO_PA15 Pin=U1-110
+Added Net: Name=GPIO_PA15
+Added Pin To Net: NetName=GPIO_PB0 Pin=P14-2
+Added Pin To Net: NetName=GPIO_PB0 Pin=U1-46
+Added Net: Name=GPIO_PB0
+Added Pin To Net: NetName=GPIO_PB1 Pin=P2-1
+Added Pin To Net: NetName=GPIO_PB1 Pin=U1-47
+Added Net: Name=GPIO_PB1
+Added Pin To Net: NetName=GPIO_PB2 Pin=P2-2
+Added Pin To Net: NetName=GPIO_PB2 Pin=U1-48
+Added Net: Name=GPIO_PB2
+Added Pin To Net: NetName=GPIO_PB3 Pin=P5-1
+Added Pin To Net: NetName=GPIO_PB3 Pin=U1-133
+Added Net: Name=GPIO_PB3
+Added Pin To Net: NetName=GPIO_PB4 Pin=P5-2
+Added Pin To Net: NetName=GPIO_PB4 Pin=U1-134
+Added Net: Name=GPIO_PB4
+Added Pin To Net: NetName=GPIO_PB5 Pin=P8-1
+Added Pin To Net: NetName=GPIO_PB5 Pin=U1-135
+Added Net: Name=GPIO_PB5
+Added Pin To Net: NetName=GPIO_PC9 Pin=P3-2
+Added Pin To Net: NetName=GPIO_PC9 Pin=U1-99
+Added Net: Name=GPIO_PC9
+Added Pin To Net: NetName=GPIO_PC10 Pin=P6-1
+Added Pin To Net: NetName=GPIO_PC10 Pin=U1-111
+Added Net: Name=GPIO_PC10
+Added Pin To Net: NetName=GPIO_PC11 Pin=P6-2
+Added Pin To Net: NetName=GPIO_PC11 Pin=U1-112
+Added Net: Name=GPIO_PC11
+Added Pin To Net: NetName=GPIO_PC12 Pin=P9-1
+Added Pin To Net: NetName=GPIO_PC12 Pin=U1-113
+Added Net: Name=GPIO_PC12
+Added Pin To Net: NetName=GPIO_PC13 Pin=P9-2
+Added Pin To Net: NetName=GPIO_PC13 Pin=U1-7
+Added Net: Name=GPIO_PC13
+Added Pin To Net: NetName=GPIO_PC14 Pin=P16-1
+Added Pin To Net: NetName=GPIO_PC14 Pin=U1-8
+Added Net: Name=GPIO_PC14
+Added Pin To Net: NetName=GPIO_PC15 Pin=P16-2
+Added Pin To Net: NetName=GPIO_PC15 Pin=U1-9
+Added Net: Name=GPIO_PC15
+Added Pin To Net: NetName=GPIO_PD0 Pin=P10-1
+Added Pin To Net: NetName=GPIO_PD0 Pin=U1-114
+Added Net: Name=GPIO_PD0
+Added Pin To Net: NetName=GPIO_PD1 Pin=P10-2
+Added Pin To Net: NetName=GPIO_PD1 Pin=U1-115
+Added Net: Name=GPIO_PD1
+Added Pin To Net: NetName=GPIO_PD2 Pin=P17-1
+Added Pin To Net: NetName=GPIO_PD2 Pin=U1-116
+Added Net: Name=GPIO_PD2
+Added Pin To Net: NetName=GPIO_PD3 Pin=P17-2
+Added Pin To Net: NetName=GPIO_PD3 Pin=U1-117
+Added Net: Name=GPIO_PD3
+Added Pin To Net: NetName=GPIO_PD4 Pin=P21-1
+Added Pin To Net: NetName=GPIO_PD4 Pin=U1-118
+Added Net: Name=GPIO_PD4
+Added Pin To Net: NetName=GPIO_PD5 Pin=P21-2
+Added Pin To Net: NetName=GPIO_PD5 Pin=U1-119
+Added Net: Name=GPIO_PD5
+Added Pin To Net: NetName=GPIO_PD6 Pin=P25-1
+Added Pin To Net: NetName=GPIO_PD6 Pin=U1-122
+Added Net: Name=GPIO_PD6
+Added Pin To Net: NetName=GPIO_PD7 Pin=P25-2
+Added Pin To Net: NetName=GPIO_PD7 Pin=U1-123
+Added Net: Name=GPIO_PD7
+Added Pin To Net: NetName=GPIO_PD8 Pin=P31-1
+Added Pin To Net: NetName=GPIO_PD8 Pin=U1-77
+Added Net: Name=GPIO_PD8
+Added Pin To Net: NetName=GPIO_PD9 Pin=P31-2
+Added Pin To Net: NetName=GPIO_PD9 Pin=U1-78
+Added Net: Name=GPIO_PD9
+Added Pin To Net: NetName=GPIO_PD10 Pin=P37-1
+Added Pin To Net: NetName=GPIO_PD10 Pin=U1-79
+Added Net: Name=GPIO_PD10
+Added Pin To Net: NetName=GPIO_PD11 Pin=P37-2
+Added Pin To Net: NetName=GPIO_PD11 Pin=U1-80
+Added Net: Name=GPIO_PD11
+Added Pin To Net: NetName=GPIO_PD12 Pin=P43-1
+Added Pin To Net: NetName=GPIO_PD12 Pin=U1-81
+Added Net: Name=GPIO_PD12
+Added Pin To Net: NetName=GPIO_PD13 Pin=P43-2
+Added Pin To Net: NetName=GPIO_PD13 Pin=U1-82
+Added Net: Name=GPIO_PD13
+Added Pin To Net: NetName=GPIO_PD14 Pin=P49-1
+Added Pin To Net: NetName=GPIO_PD14 Pin=U1-85
+Added Net: Name=GPIO_PD14
+Added Pin To Net: NetName=GPIO_PD15 Pin=P49-2
+Added Pin To Net: NetName=GPIO_PD15 Pin=U1-86
+Added Net: Name=GPIO_PD15
+Added Pin To Net: NetName=GPIO_PE0 Pin=P11-1
+Added Pin To Net: NetName=GPIO_PE0 Pin=U1-141
+Added Net: Name=GPIO_PE0
+Added Pin To Net: NetName=GPIO_PE1 Pin=P11-2
+Added Pin To Net: NetName=GPIO_PE1 Pin=U1-142
+Added Net: Name=GPIO_PE1
+Added Pin To Net: NetName=GPIO_PE2 Pin=P18-1
+Added Pin To Net: NetName=GPIO_PE2 Pin=U1-1
+Added Net: Name=GPIO_PE2
+Added Pin To Net: NetName=GPIO_PE3 Pin=P18-2
+Added Pin To Net: NetName=GPIO_PE3 Pin=U1-2
+Added Net: Name=GPIO_PE3
+Added Pin To Net: NetName=GPIO_PE4 Pin=P22-1
+Added Pin To Net: NetName=GPIO_PE4 Pin=U1-3
+Added Net: Name=GPIO_PE4
+Added Pin To Net: NetName=GPIO_PE5 Pin=P22-2
+Added Pin To Net: NetName=GPIO_PE5 Pin=U1-4
+Added Net: Name=GPIO_PE5
+Added Pin To Net: NetName=GPIO_PE6 Pin=P26-1
+Added Pin To Net: NetName=GPIO_PE6 Pin=U1-5
+Added Net: Name=GPIO_PE6
+Added Pin To Net: NetName=GPIO_PE7 Pin=P26-2
+Added Pin To Net: NetName=GPIO_PE7 Pin=U1-58
+Added Net: Name=GPIO_PE7
+Added Pin To Net: NetName=GPIO_PE8 Pin=P32-1
+Added Pin To Net: NetName=GPIO_PE8 Pin=U1-59
+Added Net: Name=GPIO_PE8
+Added Pin To Net: NetName=GPIO_PE9 Pin=P32-2
+Added Pin To Net: NetName=GPIO_PE9 Pin=U1-60
+Added Net: Name=GPIO_PE9
+Added Pin To Net: NetName=GPIO_PE10 Pin=P38-1
+Added Pin To Net: NetName=GPIO_PE10 Pin=U1-63
+Added Net: Name=GPIO_PE10
+Added Pin To Net: NetName=GPIO_PE11 Pin=P38-2
+Added Pin To Net: NetName=GPIO_PE11 Pin=U1-64
+Added Net: Name=GPIO_PE11
+Added Pin To Net: NetName=GPIO_PE12 Pin=P44-1
+Added Pin To Net: NetName=GPIO_PE12 Pin=U1-65
+Added Net: Name=GPIO_PE12
+Added Pin To Net: NetName=GPIO_PE13 Pin=P44-2
+Added Pin To Net: NetName=GPIO_PE13 Pin=U1-66
+Added Net: Name=GPIO_PE13
+Added Pin To Net: NetName=GPIO_PE14 Pin=P50-1
+Added Pin To Net: NetName=GPIO_PE14 Pin=U1-67
+Added Net: Name=GPIO_PE14
+Added Pin To Net: NetName=GPIO_PE15 Pin=P50-2
+Added Pin To Net: NetName=GPIO_PE15 Pin=U1-68
+Added Net: Name=GPIO_PE15
+Added Pin To Net: NetName=GPIO_PF0 Pin=P12-1
+Added Pin To Net: NetName=GPIO_PF0 Pin=U1-10
+Added Net: Name=GPIO_PF0
+Added Pin To Net: NetName=GPIO_PF1 Pin=P12-2
+Added Pin To Net: NetName=GPIO_PF1 Pin=U1-11
+Added Net: Name=GPIO_PF1
+Added Pin To Net: NetName=GPIO_PF2 Pin=P19-1
+Added Pin To Net: NetName=GPIO_PF2 Pin=U1-12
+Added Net: Name=GPIO_PF2
+Added Pin To Net: NetName=GPIO_PF3 Pin=P19-2
+Added Pin To Net: NetName=GPIO_PF3 Pin=U1-13
+Added Net: Name=GPIO_PF3
+Added Pin To Net: NetName=GPIO_PF4 Pin=P23-1
+Added Pin To Net: NetName=GPIO_PF4 Pin=U1-14
+Added Net: Name=GPIO_PF4
+Added Pin To Net: NetName=GPIO_PF5 Pin=P23-2
+Added Pin To Net: NetName=GPIO_PF5 Pin=U1-15
+Added Net: Name=GPIO_PF5
+Added Pin To Net: NetName=GPIO_PF6 Pin=P27-1
+Added Pin To Net: NetName=GPIO_PF6 Pin=U1-18
+Added Net: Name=GPIO_PF6
+Added Pin To Net: NetName=GPIO_PF7 Pin=P27-2
+Added Pin To Net: NetName=GPIO_PF7 Pin=U1-19
+Added Net: Name=GPIO_PF7
+Added Pin To Net: NetName=GPIO_PF8 Pin=P33-1
+Added Pin To Net: NetName=GPIO_PF8 Pin=U1-20
+Added Net: Name=GPIO_PF8
+Added Pin To Net: NetName=GPIO_PF9 Pin=P33-2
+Added Pin To Net: NetName=GPIO_PF9 Pin=U1-21
+Added Net: Name=GPIO_PF9
+Added Pin To Net: NetName=GPIO_PF10 Pin=P39-1
+Added Pin To Net: NetName=GPIO_PF10 Pin=U1-22
+Added Net: Name=GPIO_PF10
+Added Pin To Net: NetName=GPIO_PF11 Pin=P39-2
+Added Pin To Net: NetName=GPIO_PF11 Pin=U1-49
+Added Net: Name=GPIO_PF11
+Added Pin To Net: NetName=GPIO_PF12 Pin=P45-1
+Added Pin To Net: NetName=GPIO_PF12 Pin=U1-50
+Added Net: Name=GPIO_PF12
+Added Pin To Net: NetName=GPIO_PF13 Pin=P45-2
+Added Pin To Net: NetName=GPIO_PF13 Pin=U1-53
+Added Net: Name=GPIO_PF13
+Added Pin To Net: NetName=GPIO_PF14 Pin=P51-1
+Added Pin To Net: NetName=GPIO_PF14 Pin=U1-54
+Added Net: Name=GPIO_PF14
+Added Pin To Net: NetName=GPIO_PF15 Pin=P51-2
+Added Pin To Net: NetName=GPIO_PF15 Pin=U1-55
+Added Net: Name=GPIO_PF15
+Added Pin To Net: NetName=GPIO_PG0 Pin=P13-1
+Added Pin To Net: NetName=GPIO_PG0 Pin=U1-56
+Added Net: Name=GPIO_PG0
+Added Pin To Net: NetName=GPIO_PG1 Pin=P13-2
+Added Pin To Net: NetName=GPIO_PG1 Pin=U1-57
+Added Net: Name=GPIO_PG1
+Added Pin To Net: NetName=GPIO_PG2 Pin=P20-1
+Added Pin To Net: NetName=GPIO_PG2 Pin=U1-87
+Added Net: Name=GPIO_PG2
+Added Pin To Net: NetName=GPIO_PG3 Pin=P20-2
+Added Pin To Net: NetName=GPIO_PG3 Pin=U1-88
+Added Net: Name=GPIO_PG3
+Added Pin To Net: NetName=GPIO_PG4 Pin=P24-1
+Added Pin To Net: NetName=GPIO_PG4 Pin=U1-89
+Added Net: Name=GPIO_PG4
+Added Pin To Net: NetName=GPIO_PG5 Pin=P24-2
+Added Pin To Net: NetName=GPIO_PG5 Pin=U1-90
+Added Net: Name=GPIO_PG5
+Added Pin To Net: NetName=GPIO_PG6 Pin=P28-1
+Added Pin To Net: NetName=GPIO_PG6 Pin=U1-91
+Added Net: Name=GPIO_PG6
+Added Pin To Net: NetName=GPIO_PG7 Pin=P28-2
+Added Pin To Net: NetName=GPIO_PG7 Pin=U1-92
+Added Net: Name=GPIO_PG7
+Added Pin To Net: NetName=GPIO_PG8 Pin=P34-1
+Added Pin To Net: NetName=GPIO_PG8 Pin=U1-93
+Added Net: Name=GPIO_PG8
+Added Pin To Net: NetName=GPIO_PG9 Pin=P34-2
+Added Pin To Net: NetName=GPIO_PG9 Pin=U1-124
+Added Net: Name=GPIO_PG9
+Added Pin To Net: NetName=GPIO_PG10 Pin=P40-1
+Added Pin To Net: NetName=GPIO_PG10 Pin=U1-125
+Added Net: Name=GPIO_PG10
+Added Pin To Net: NetName=GPIO_PG11 Pin=P40-2
+Added Pin To Net: NetName=GPIO_PG11 Pin=U1-126
+Added Net: Name=GPIO_PG11
+Added Pin To Net: NetName=GPIO_PG12 Pin=P46-1
+Added Pin To Net: NetName=GPIO_PG12 Pin=U1-127
+Added Net: Name=GPIO_PG12
+Added Pin To Net: NetName=GPIO_PG13 Pin=P46-2
+Added Pin To Net: NetName=GPIO_PG13 Pin=U1-128
+Added Net: Name=GPIO_PG13
+Added Pin To Net: NetName=GPIO_PG14 Pin=P52-1
+Added Pin To Net: NetName=GPIO_PG14 Pin=U1-129
+Added Net: Name=GPIO_PG14
+Added Pin To Net: NetName=GPIO_PG15 Pin=P52-2
+Added Pin To Net: NetName=GPIO_PG15 Pin=U1-132
+Added Net: Name=GPIO_PG15
+Added Pin To Net: NetName=NetB1_3 Pin=B1-3
+Added Pin To Net: NetName=NetB1_3 Pin=R3-1
+Added Pin To Net: NetName=NetB1_3 Pin=R4-2
+Added Net: Name=NetB1_3
+Added Pin To Net: NetName=NetBattery1_2 Pin=Battery1-2
+Added Pin To Net: NetName=NetBattery1_2 Pin=F1-2
+Added Net: Name=NetBattery1_2
+Added Pin To Net: NetName=NetBH1_+ Pin=BH1-+
+Added Pin To Net: NetName=NetBH1_+ Pin=U1-6
+Added Net: Name=NetBH1_+
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C5-1
+Added Pin To Net: NetName=NetC3_1 Pin=C6-1
+Added Pin To Net: NetName=NetC3_1 Pin=C7-1
+Added Pin To Net: NetName=NetC3_1 Pin=ESC1-2
+Added Pin To Net: NetName=NetC3_1 Pin=ESC2-2
+Added Pin To Net: NetName=NetC3_1 Pin=ESC3-2
+Added Pin To Net: NetName=NetC3_1 Pin=ESC4-2
+Added Pin To Net: NetName=NetC3_1 Pin=Q1-S
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=R4-1
+Added Pin To Net: NetName=NetC10_2 Pin=U1-25
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=U1-71
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=U1-106
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R5-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetDIS1_2 Pin=DIS1-2
+Added Pin To Net: NetName=NetDIS1_2 Pin=U1-101
+Added Net: Name=NetDIS1_2
+Added Pin To Net: NetName=NetDIS1_3 Pin=DIS1-3
+Added Pin To Net: NetName=NetDIS1_3 Pin=U1-102
+Added Net: Name=NetDIS1_3
+Added Pin To Net: NetName=NetESC1_3 Pin=ESC1-3
+Added Pin To Net: NetName=NetESC1_3 Pin=U1-44
+Added Net: Name=NetESC1_3
+Added Pin To Net: NetName=NetESC2_3 Pin=ESC2-3
+Added Pin To Net: NetName=NetESC2_3 Pin=U1-45
+Added Net: Name=NetESC2_3
+Added Pin To Net: NetName=NetESC3_3 Pin=ESC3-3
+Added Pin To Net: NetName=NetESC3_3 Pin=U1-96
+Added Net: Name=NetESC3_3
+Added Pin To Net: NetName=NetESC4_3 Pin=ESC4-3
+Added Pin To Net: NetName=NetESC4_3 Pin=U1-97
+Added Net: Name=NetESC4_3
+Added Pin To Net: NetName=NetESP32S1_2 Pin=ESP32S1-2
+Added Pin To Net: NetName=NetESP32S1_2 Pin=P29-1
+Added Net: Name=NetESP32S1_2
+Added Pin To Net: NetName=NetESP32S1_3 Pin=ESP32S1-3
+Added Pin To Net: NetName=NetESP32S1_3 Pin=P57-2
+Added Net: Name=NetESP32S1_3
+Added Pin To Net: NetName=NetESP32S1_4 Pin=ESP32S1-4
+Added Pin To Net: NetName=NetESP32S1_4 Pin=P59-1
+Added Net: Name=NetESP32S1_4
+Added Pin To Net: NetName=NetESP32S1_5 Pin=ESP32S1-5
+Added Pin To Net: NetName=NetESP32S1_5 Pin=P54-2
+Added Net: Name=NetESP32S1_5
+Added Pin To Net: NetName=NetESP32S1_6 Pin=ESP32S1-6
+Added Pin To Net: NetName=NetESP32S1_6 Pin=P57-1
+Added Net: Name=NetESP32S1_6
+Added Pin To Net: NetName=NetESP32S1_7 Pin=ESP32S1-7
+Added Pin To Net: NetName=NetESP32S1_7 Pin=P48-2
+Added Net: Name=NetESP32S1_7
+Added Pin To Net: NetName=NetESP32S1_8 Pin=ESP32S1-8
+Added Pin To Net: NetName=NetESP32S1_8 Pin=P54-1
+Added Net: Name=NetESP32S1_8
+Added Pin To Net: NetName=NetESP32S1_9 Pin=ESP32S1-9
+Added Pin To Net: NetName=NetESP32S1_9 Pin=P42-1
+Added Net: Name=NetESP32S1_9
+Added Pin To Net: NetName=NetESP32S1_10 Pin=ESP32S1-10
+Added Pin To Net: NetName=NetESP32S1_10 Pin=P42-2
+Added Net: Name=NetESP32S1_10
+Added Pin To Net: NetName=NetESP32S1_11 Pin=ESP32S1-11
+Added Pin To Net: NetName=NetESP32S1_11 Pin=P48-1
+Added Net: Name=NetESP32S1_11
+Added Pin To Net: NetName=NetESP32S1_12 Pin=ESP32S1-12
+Added Pin To Net: NetName=NetESP32S1_12 Pin=U1-41
+Added Net: Name=NetESP32S1_12
+Added Pin To Net: NetName=NetESP32S1_13 Pin=ESP32S1-13
+Added Pin To Net: NetName=NetESP32S1_13 Pin=U1-42
+Added Net: Name=NetESP32S1_13
+Added Pin To Net: NetName=NetESP32S1_15 Pin=ESP32S1-15
+Added Pin To Net: NetName=NetESP32S1_15 Pin=U1-43
+Added Net: Name=NetESP32S1_15
+Added Pin To Net: NetName=NetESP32S1_16 Pin=ESP32S1-16
+Added Pin To Net: NetName=NetESP32S1_16 Pin=P56-1
+Added Net: Name=NetESP32S1_16
+Added Pin To Net: NetName=NetESP32S1_17 Pin=ESP32S1-17
+Added Pin To Net: NetName=NetESP32S1_17 Pin=P56-2
+Added Net: Name=NetESP32S1_17
+Added Pin To Net: NetName=NetESP32S1_18 Pin=ESP32S1-18
+Added Pin To Net: NetName=NetESP32S1_18 Pin=P58-1
+Added Net: Name=NetESP32S1_18
+Added Pin To Net: NetName=NetESP32S1_21 Pin=ESP32S1-21
+Added Pin To Net: NetName=NetESP32S1_21 Pin=P36-2
+Added Net: Name=NetESP32S1_21
+Added Pin To Net: NetName=NetESP32S1_22 Pin=ESP32S1-22
+Added Pin To Net: NetName=NetESP32S1_22 Pin=P36-1
+Added Net: Name=NetESP32S1_22
+Added Pin To Net: NetName=NetESP32S1_23 Pin=ESP32S1-23
+Added Pin To Net: NetName=NetESP32S1_23 Pin=P35-1
+Added Net: Name=NetESP32S1_23
+Added Pin To Net: NetName=NetESP32S1_24 Pin=ESP32S1-24
+Added Pin To Net: NetName=NetESP32S1_24 Pin=P41-1
+Added Net: Name=NetESP32S1_24
+Added Pin To Net: NetName=NetESP32S1_25 Pin=ESP32S1-25
+Added Pin To Net: NetName=NetESP32S1_25 Pin=P30-2
+Added Net: Name=NetESP32S1_25
+Added Pin To Net: NetName=NetESP32S1_27 Pin=ESP32S1-27
+Added Pin To Net: NetName=NetESP32S1_27 Pin=P30-1
+Added Net: Name=NetESP32S1_27
+Added Pin To Net: NetName=NetESP32S1_28 Pin=ESP32S1-28
+Added Pin To Net: NetName=NetESP32S1_28 Pin=P60-2
+Added Net: Name=NetESP32S1_28
+Added Pin To Net: NetName=NetESP32S1_29 Pin=ESP32S1-29
+Added Pin To Net: NetName=NetESP32S1_29 Pin=P47-1
+Added Net: Name=NetESP32S1_29
+Added Pin To Net: NetName=NetESP32S1_30 Pin=ESP32S1-30
+Added Pin To Net: NetName=NetESP32S1_30 Pin=P60-1
+Added Net: Name=NetESP32S1_30
+Added Pin To Net: NetName=NetESP32S1_31 Pin=ESP32S1-31
+Added Pin To Net: NetName=NetESP32S1_31 Pin=P58-2
+Added Net: Name=NetESP32S1_31
+Added Pin To Net: NetName=NetESP32S1_32 Pin=ESP32S1-32
+Added Pin To Net: NetName=NetESP32S1_32 Pin=P41-2
+Added Net: Name=NetESP32S1_32
+Added Pin To Net: NetName=NetESP32S1_33 Pin=ESP32S1-33
+Added Pin To Net: NetName=NetESP32S1_33 Pin=P29-2
+Added Net: Name=NetESP32S1_33
+Added Pin To Net: NetName=NetESP32S1_34 Pin=ESP32S1-34
+Added Pin To Net: NetName=NetESP32S1_34 Pin=P35-2
+Added Net: Name=NetESP32S1_34
+Added Pin To Net: NetName=NetESP32S1_35 Pin=ESP32S1-35
+Added Pin To Net: NetName=NetESP32S1_35 Pin=U1-40
+Added Net: Name=NetESP32S1_35
+Added Pin To Net: NetName=NetESP32S1_36 Pin=ESP32S1-36
+Added Pin To Net: NetName=NetESP32S1_36 Pin=P53-2
+Added Net: Name=NetESP32S1_36
+Added Pin To Net: NetName=NetESP32S1_37 Pin=ESP32S1-37
+Added Pin To Net: NetName=NetESP32S1_37 Pin=P53-1
+Added Net: Name=NetESP32S1_37
+Added Pin To Net: NetName=NetESP32S1_38 Pin=ESP32S1-38
+Added Pin To Net: NetName=NetESP32S1_38 Pin=P47-2
+Added Net: Name=NetESP32S1_38
+Added Pin To Net: NetName=NetGPS1_3 Pin=GPS1-3
+Added Pin To Net: NetName=NetGPS1_3 Pin=U1-34
+Added Net: Name=NetGPS1_3
+Added Pin To Net: NetName=NetGPS1_4 Pin=GPS1-4
+Added Pin To Net: NetName=NetGPS1_4 Pin=U1-35
+Added Net: Name=NetGPS1_4
+Added Pin To Net: NetName=NetGPS1_5 Pin=GPS1-5
+Added Pin To Net: NetName=NetGPS1_5 Pin=U1-36
+Added Net: Name=NetGPS1_5
+Added Pin To Net: NetName=NetIMU1_4 Pin=IMU1-4
+Added Pin To Net: NetName=NetIMU1_4 Pin=U1-74
+Added Net: Name=NetIMU1_4
+Added Pin To Net: NetName=NetIMU1_5 Pin=IMU1-5
+Added Pin To Net: NetName=NetIMU1_5 Pin=U1-76
+Added Net: Name=NetIMU1_5
+Added Pin To Net: NetName=NetIMU1_6 Pin=IMU1-6
+Added Pin To Net: NetName=NetIMU1_6 Pin=U1-75
+Added Net: Name=NetIMU1_6
+Added Pin To Net: NetName=NetIMU1_7 Pin=IMU1-7
+Added Pin To Net: NetName=NetIMU1_7 Pin=U1-70
+Added Net: Name=NetIMU1_7
+Added Pin To Net: NetName=NetIMU1_8 Pin=IMU1-8
+Added Pin To Net: NetName=NetIMU1_8 Pin=U1-73
+Added Net: Name=NetIMU1_8
+Added Pin To Net: NetName=NetMAG1_3 Pin=MAG1-3
+Added Pin To Net: NetName=NetMAG1_3 Pin=U1-136
+Added Net: Name=NetMAG1_3
+Added Pin To Net: NetName=NetMAG1_4 Pin=MAG1-4
+Added Pin To Net: NetName=NetMAG1_4 Pin=U1-137
+Added Net: Name=NetMAG1_4
+Added Pin To Net: NetName=NetMAG1_5 Pin=MAG1-5
+Added Pin To Net: NetName=NetMAG1_5 Pin=U1-139
+Added Net: Name=NetMAG1_5
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=U1-37
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=U1-100
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=U1-29
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP8_2 Pin=P8-2
+Added Pin To Net: NetName=NetP8_2 Pin=U1-140
+Added Net: Name=NetP8_2
+Added Pin To Net: NetName=NetP15_1 Pin=P15-1
+Added Pin To Net: NetName=NetP15_1 Pin=U1-69
+Added Net: Name=NetP15_1
+Added Pin To Net: NetName=NetP15_2 Pin=P15-2
+Added Pin To Net: NetName=NetP15_2 Pin=U1-28
+Added Net: Name=NetP15_2
+Added Pin To Net: NetName=NetP55_1 Pin=P55-1
+Added Pin To Net: NetName=NetP55_1 Pin=U1-23
+Added Net: Name=NetP55_1
+Added Pin To Net: NetName=NetP55_2 Pin=P55-2
+Added Pin To Net: NetName=NetP55_2 Pin=U1-24
+Added Net: Name=NetP55_2
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-G
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-98
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetSENS1_3 Pin=SENS1-3
+Added Pin To Net: NetName=NetSENS1_3 Pin=U1-26
+Added Net: Name=NetSENS1_3
+Added Pin To Net: NetName=NetSERV1_3 Pin=SERV1-3
+Added Pin To Net: NetName=NetSERV1_3 Pin=U1-27
+Added Net: Name=NetSERV1_3
+Added Pin To Net: NetName=PS_GND Pin=Battery1-1
+Added Pin To Net: NetName=PS_GND Pin=C14-1
+Added Pin To Net: NetName=PS_GND Pin=D1-K
+Added Pin To Net: NetName=PS_GND Pin=DDC1-1
+Added Pin To Net: NetName=PS_GND Pin=DDC2-1
+Added Pin To Net: NetName=PS_GND Pin=TVS1-2
+Added Net: Name=PS_GND
+Added Class: Name=U_Connectors
+Added Class: Name=U_PowerSupply
+Added Class: Name=U_Sensors
+Added Class: Name=U_STM_ESP
+Added Class: Name=GPIO_PA[11..15]
+Added Class: Name=GPIO_PB[0..5]
+Added Class: Name=GPIO_PC[9..15]
+Added Class: Name=GPIO_PD[0..15]
+Added Class: Name=GPIO_PE[0..15]
+Added Class: Name=GPIO_PF[0..15]
+Added Class: Name=GPIO_PG[0..15]
+Added Room: Name=U_Connectors
+Added Room: Name=U_PowerSupply
+Added Room: Name=U_Sensors
+Added Room: Name=U_STM_ESP

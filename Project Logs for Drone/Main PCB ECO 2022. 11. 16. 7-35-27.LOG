@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=BATT NewDesignator=BATT1
+Added Pin To Net: NetName=GND Pin=BATT1-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=GND Pin=DC5V-2
+Added Pin To Net: NetName=GND Pin=DV3.3V-2
+Added Pin To Net: NetName=GND Pin=TVS1-2

@@ -1,0 +1,44 @@
+Removed Member From Class: ClassName=U_STM_ESP Member=C14
+Change Component Designator: OldDesignator=P1 NewDesignator=PA1
+Change Component Designator: OldDesignator=P2 NewDesignator=PA2
+Change Component Designator: OldDesignator=P3 NewDesignator=PB1
+Change Component Designator: OldDesignator=P4 NewDesignator=PB2
+Change Component Designator: OldDesignator=P5 NewDesignator=PC1
+Change Component Designator: OldDesignator=P6 NewDesignator=PC2
+Change Component Designator: OldDesignator=P7 NewDesignator=PD1
+Change Component Designator: OldDesignator=P8 NewDesignator=PD2
+Change Component Designator: OldDesignator=P9 NewDesignator=PD3
+Change Component Designator: OldDesignator=P10 NewDesignator=PD4
+Change Component Designator: OldDesignator=P11 NewDesignator=PE1
+Change Component Designator: OldDesignator=P12 NewDesignator=PE2
+Change Component Designator: OldDesignator=P13 NewDesignator=PE3
+Change Component Designator: OldDesignator=P14 NewDesignator=PE4
+Change Component Designator: OldDesignator=P15 NewDesignator=PF1
+Change Component Designator: OldDesignator=P16 NewDesignator=PF2
+Change Component Designator: OldDesignator=P17 NewDesignator=PF3
+Change Component Designator: OldDesignator=P18 NewDesignator=PF4
+Change Component Designator: OldDesignator=P19 NewDesignator=PG1
+Change Component Designator: OldDesignator=P20 NewDesignator=PG2
+Change Component Designator: OldDesignator=P21 NewDesignator=PG3
+Change Component Designator: OldDesignator=P22 NewDesignator=PG4
+Change Component Designator: OldDesignator=P23 NewDesignator=PH1
+Change Component Designator: OldDesignator=P24 NewDesignator=PESP1
+Change Component Designator: OldDesignator=P25 NewDesignator=PESP2
+Change Component Designator: OldDesignator=P26 NewDesignator=PESP3
+Change Component Designator: OldDesignator=P27 NewDesignator=PESP4
+Change Component Designator: OldDesignator=P28 NewDesignator=PESP5
+Change Component Designator: OldDesignator=P29 NewDesignator=PESP6
+Change Component Designator: OldDesignator=P30 NewDesignator=PESP7
+Change Component Designator: OldDesignator=P31 NewDesignator=PESP8
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetPA1_1
+Change Net Name : Old Net Name=NetP1_2 New Net Name=NetPA1_2
+Change Net Name : Old Net Name=NetP4_2 New Net Name=NetPB2_2
+Change Net Name : Old Net Name=NetP4_3 New Net Name=NetPB2_3
+Change Net Name : Old Net Name=NetP4_4 New Net Name=NetPB2_4
+Change Net Name : Old Net Name=NetP5_1 New Net Name=NetPC1_1
+Change Net Name : Old Net Name=NetP23_1 New Net Name=NetPH1_1
+Change Net Name : Old Net Name=NetP23_2 New Net Name=NetPH1_2
+Added Member To Class: ClassName=U_STM_ESP Member=Component C8 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C9 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C11 2.2uF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C12 100nF
