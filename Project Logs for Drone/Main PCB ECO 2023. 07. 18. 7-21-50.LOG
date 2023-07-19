@@ -1,0 +1,47 @@
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NRST" already exists
+Added Member To Class: ClassName=U_Connectors Member=Component C? 4.7µF
+Added Member To Class: ClassName=U_Connectors Member=Component C? 1nF
+Added Member To Class: ClassName=U_PowerSupply Member=Component C? 1uF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_Connectors Member=Component D? TVS
+Added Member To Class: ClassName=U_Connectors Member=Component D? TVS
+Added Member To Class: ClassName=U_Connectors Member=Component D? SCHOTTKY
+Added Member To Class: ClassName=U_Connectors Member=Component D? TVS
+Added Member To Class: ClassName=U_Connectors Member=Component D? TVS
+Added Member To Class: ClassName=U_PowerSupply Member=Component D? RED LED
+Added Member To Class: ClassName=U_PowerSupply Member=Component D? TVS
+Added Member To Class: ClassName=U_PowerSupply Member=Component D? SCHOTTKY
+Added Member To Class: ClassName=U_PowerSupply Member=Component D? BLUE LED
+Added Member To Class: ClassName=U_Connectors Member=Component PC1 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component PC2 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component PE1 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component PE2 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component PE3 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component PH1 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component R? 10K
+Added Member To Class: ClassName=U_Connectors Member=Component R? 1K
+Added Member To Class: ClassName=U_Connectors Member=Component R? 5.1K
+Added Member To Class: ClassName=U_Connectors Member=Component R? 130R
+Added Member To Class: ClassName=U_PowerSupply Member=Component R? 320R
+Added Member To Class: ClassName=U_STM_ESP Member=Component R? 10K
+Added Member To Class: ClassName=U_STM_ESP Member=Component U? STM32F722VET6
+Added Member To Class: ClassName=U_STM_ESP Member=Component U? STM32F722VET6
+Added Room: Name=U_Connectors
+Added Room: Name=U_PowerSupply
+Added Room: Name=U_Sensors
+Added Room: Name=U_STM_ESP

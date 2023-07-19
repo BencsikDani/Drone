@@ -1,0 +1,827 @@
+Removed Pin From Net: NetName=GND Pin=BATT-1
+Removed Pin From Net: NetName=3.3V Pin=BOOT1-1
+Removed Pin From Net: NetName=GND Pin=BOOT1-3
+Removed Pin From Net: NetName=GND Pin=BTN-1
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=11.1V Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=3.3V Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=D1-K
+Removed Pin From Net: NetName=11.1V Pin=DC5V-1
+Removed Pin From Net: NetName=GND Pin=DC5V-2
+Removed Pin From Net: NetName=5V Pin=DC5V-3
+Removed Pin From Net: NetName=GND Pin=DEB-5
+Removed Pin From Net: NetName=GND Pin=DEB-6
+Removed Pin From Net: NetName=3.3V Pin=DEB-7
+Removed Pin From Net: NetName=3.3V Pin=DEB-8
+Removed Pin From Net: NetName=5V Pin=DEB-9
+Removed Pin From Net: NetName=5V Pin=DEB-10
+Removed Pin From Net: NetName=11.1V Pin=DV3.3V-1
+Removed Pin From Net: NetName=GND Pin=DV3.3V-2
+Removed Pin From Net: NetName=3.3V Pin=DV3.3V-3
+Removed Pin From Net: NetName=11.1V Pin=GD-1
+Removed Pin From Net: NetName=GND Pin=GD-3
+Removed Pin From Net: NetName=GND Pin=GD-4
+Removed Pin From Net: NetName=GND Pin=GD-5
+Removed Pin From Net: NetName=11.1V Pin=GD-8
+Removed Pin From Net: NetName=NetPC1_1 Pin=PC1-1
+Removed Pin From Net: NetName=NetPH1_1 Pin=PH1-1
+Removed Pin From Net: NetName=NetPH1_2 Pin=PH1-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=3.3V Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=STM32-16
+Removed Pin From Net: NetName=3.3V Pin=STM32-17
+Removed Pin From Net: NetName=NetPH1_1 Pin=STM32-23
+Removed Pin From Net: NetName=NetPH1_2 Pin=STM32-24
+Removed Pin From Net: NetName=NetSENS_3 Pin=STM32-26
+Removed Pin From Net: NetName=NetSERV_3 Pin=STM32-27
+Removed Pin From Net: NetName=NetPB2_4 Pin=STM32-28
+Removed Pin From Net: NetName=NetPC1_1 Pin=STM32-29
+Removed Pin From Net: NetName=3.3V Pin=STM32-30
+Removed Pin From Net: NetName=GND Pin=STM32-31
+Removed Pin From Net: NetName=3.3V Pin=STM32-32
+Removed Pin From Net: NetName=3.3V Pin=STM32-33
+Removed Pin From Net: NetName=NetPGPS_3 Pin=STM32-34
+Removed Pin From Net: NetName=NetPGPS_2 Pin=STM32-35
+Removed Pin From Net: NetName=NetPGPS_1 Pin=STM32-36
+Removed Pin From Net: NetName=NetPA1_1 Pin=STM32-37
+Removed Pin From Net: NetName=GND Pin=STM32-38
+Removed Pin From Net: NetName=3.3V Pin=STM32-39
+Removed Pin From Net: NetName=NetESC1_3 Pin=STM32-44
+Removed Pin From Net: NetName=NetESC2_3 Pin=STM32-45
+Removed Pin From Net: NetName=NetPB1_2 Pin=STM32-46
+Removed Pin From Net: NetName=NetPB1_3 Pin=STM32-47
+Removed Pin From Net: NetName=GND Pin=STM32-51
+Removed Pin From Net: NetName=3.3V Pin=STM32-52
+Removed Pin From Net: NetName=GND Pin=STM32-61
+Removed Pin From Net: NetName=3.3V Pin=STM32-62
+Removed Pin From Net: NetName=NetPB2_3 Pin=STM32-69
+Removed Pin From Net: NetName=NetIMU_7 Pin=STM32-70
+Removed Pin From Net: NetName=NetC12_2 Pin=STM32-71
+Removed Pin From Net: NetName=3.3V Pin=STM32-72
+Removed Pin From Net: NetName=NetIMU_8 Pin=STM32-73
+Removed Pin From Net: NetName=NetIMU_4 Pin=STM32-74
+Removed Pin From Net: NetName=NetIMU_6 Pin=STM32-75
+Removed Pin From Net: NetName=NetIMU_5 Pin=STM32-76
+Removed Pin From Net: NetName=GND Pin=STM32-83
+Removed Pin From Net: NetName=3.3V Pin=STM32-84
+Removed Pin From Net: NetName=GND Pin=STM32-94
+Removed Pin From Net: NetName=3.3V Pin=STM32-95
+Removed Pin From Net: NetName=NetESC3_3 Pin=STM32-96
+Removed Pin From Net: NetName=NetESC4_3 Pin=STM32-97
+Removed Pin From Net: NetName=NetPA1_2 Pin=STM32-100
+Removed Pin From Net: NetName=NetPDIS_2 Pin=STM32-101
+Removed Pin From Net: NetName=NetPDIS_3 Pin=STM32-102
+Removed Pin From Net: NetName=NetPA1_3 Pin=STM32-103
+Removed Pin From Net: NetName=NetPA1_4 Pin=STM32-104
+Removed Pin From Net: NetName=NetC10_2 Pin=STM32-106
+Removed Pin From Net: NetName=GND Pin=STM32-107
+Removed Pin From Net: NetName=3.3V Pin=STM32-108
+Removed Pin From Net: NetName=NetPB1_1 Pin=STM32-110
+Removed Pin From Net: NetName=GND Pin=STM32-120
+Removed Pin From Net: NetName=3.3V Pin=STM32-121
+Removed Pin From Net: NetName=GND Pin=STM32-130
+Removed Pin From Net: NetName=3.3V Pin=STM32-131
+Removed Pin From Net: NetName=NetPB1_4 Pin=STM32-134
+Removed Pin From Net: NetName=NetPB2_1 Pin=STM32-135
+Removed Pin From Net: NetName=NetMAG_3 Pin=STM32-136
+Removed Pin From Net: NetName=NetMAG_4 Pin=STM32-137
+Removed Pin From Net: NetName=NetR6_2 Pin=STM32-138
+Removed Pin From Net: NetName=NetMAG_5 Pin=STM32-139
+Removed Pin From Net: NetName=NetPB2_2 Pin=STM32-140
+Removed Pin From Net: NetName=3.3V Pin=STM32-143
+Removed Pin From Net: NetName=3.3V Pin=STM32-144
+Removed Pin From Net: NetName=GND Pin=TVS-A
+Removed Member From Class: ClassName=U_Connectors Member=BOOT1
+Removed Member From Class: ClassName=U_Connectors Member=BTN
+Removed Member From Class: ClassName=U_Sensors Member=C6
+Removed Member From Class: ClassName=U_Sensors Member=C7
+Removed Member From Class: ClassName=U_STM_ESP Member=C11
+Removed Member From Class: ClassName=U_Connectors Member=C13
+Removed Member From Class: ClassName=U_PowerSupply Member=D1
+Removed Member From Class: ClassName=U_PowerSupply Member=DC5V
+Removed Member From Class: ClassName=U_Connectors Member=DEB
+Removed Member From Class: ClassName=U_PowerSupply Member=DV3.3V
+Removed Member From Class: ClassName=U_Sensors Member=ESC1
+Removed Member From Class: ClassName=U_Sensors Member=ESC2
+Removed Member From Class: ClassName=U_Sensors Member=ESC3
+Removed Member From Class: ClassName=U_Sensors Member=ESC4
+Removed Member From Class: ClassName=U_Sensors Member=GD
+Removed Member From Class: ClassName=U_Connectors Member=PE3
+Removed Member From Class: ClassName=U_Connectors Member=PE4
+Removed Member From Class: ClassName=U_Connectors Member=PF1
+Removed Member From Class: ClassName=U_Connectors Member=PF2
+Removed Member From Class: ClassName=U_Connectors Member=PF3
+Removed Member From Class: ClassName=U_Connectors Member=PF4
+Removed Member From Class: ClassName=U_Connectors Member=PG1
+Removed Member From Class: ClassName=U_Connectors Member=PG2
+Removed Member From Class: ClassName=U_Connectors Member=PG3
+Removed Member From Class: ClassName=U_Connectors Member=PG4
+Removed Member From Class: ClassName=U_Connectors Member=PH1
+Removed Member From Class: ClassName=U_Sensors Member=PM
+Removed Member From Class: ClassName=U_Connectors Member=PRST
+Removed Member From Class: ClassName=U_Sensors Member=R1
+Removed Member From Class: ClassName=U_Sensors Member=R2
+Removed Member From Class: ClassName=U_Sensors Member=R3
+Removed Member From Class: ClassName=U_Connectors Member=R4
+Removed Member From Class: ClassName=U_Connectors Member=R5
+Removed Member From Class: ClassName=U_Connectors Member=R7
+Removed Member From Class: ClassName=U_Sensors Member=SENS
+Removed Member From Class: ClassName=U_Sensors Member=SERV
+Removed Member From Class: ClassName=U_STM_ESP Member=STM32
+Change Component Footprint: Designator=BATT Old Footprint=FP_CONN2_SORK_3.81MM New Footprint=CONN2_SORK_3.5mm
+Change Component Comment : Designator=TVS Old Comment= New Comment=TVS
+Change Component Designator: OldDesignator=PC1 NewDesignator=PC2
+Change Component Designator: OldDesignator=PC2 NewDesignator=PC3
+Change Component Designator: OldDesignator=PD3 NewDesignator=PE1
+Change Component Designator: OldDesignator=PD4 NewDesignator=PE2
+Change Component Designator: OldDesignator=PE1 NewDesignator=PE3
+Change Component Designator: OldDesignator=PE2 NewDesignator=PH1
+Change Component Designator: OldDesignator=SCH NewDesignator=D?
+Change Component Designator: OldDesignator=TVS NewDesignator=D?
+Added Component: Designator=BTN?(FP_BTN_SMD)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP_0805_CAP_085)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED_SMD_0805_GREEN)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIOMELF3515M)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED_SMD_0805_RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED_SMD_0805_BLUE)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(FP_SMA)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIOMELF3515M)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIOMELF3515M)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIOMELF3515M)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIOMELF3515M)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=GD?(DIP781W56P254L950H533Q8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21424d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "5.334mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TC4431VPA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-TC4431VPA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/TC4431VPA?qs=dJbzCyn%252BCFb0mSWY4MWPfw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LDO?(SOT230P700X180-4N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tlv1117lv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLV1117LV33DCYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TLV1117LV33DCYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV1117LV33DCYR?qs=tEz3BkPb1rwzXMb8FiWhow%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=PC1(FP_CONN4_TUSKE_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PC4(FP_CONN4_TUSKE_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PM?(TO254P483X1028X2284-3P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/discrete_mosfets/littelfuse_discrete_mosfets_p-channel_ixt_120p065t_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IXTP120P065T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "747-IXTP120P065T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/IXYS/IXTP120P065T?qs=cvHLLyFtoE09fNdm%2Fv8mrw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "320R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(FP_0805_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(FP_0805_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4K70"; VariantName = "[No Variations]"
+Added Component: Designator=R?(FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(FP_0805_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "130R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(FP_0805_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(FP_0805_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(FP_0805_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1K"; VariantName = "[No Variations]"
+Added Component: Designator=U?(LQFP100-14x14mm)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(LQFP100-14x14mm)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(LQFP100-14x14mm)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=UART_PC?(FP_CONN2_TUSKE_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB?(USB405603A)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.jp/datasheet/2/837/usb4056-2448808.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "3.56mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "GCT (GLOBAL CONNECTOR TECHNOLOGY)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "USB4056-03-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "640-USB4056-03-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/GCT/USB4056-03-A?qs=QNEnbhJQKvbZ7hZzgFEugA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VREG?(TMU31211)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://tracopower.com/tmu3-datasheet/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "10.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Traco Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TMU 3-1211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "495-TMU3-1211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TRACO-Power/TMU-3-1211?qs=By6Nw2ByBD3GesUHA2ql3Q%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=BH-+
+Added Pin To Net: NetName=GND Pin=BTN?-1
+Added Pin To Net: NetName=3.3V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=5V Pin=C?-2
+Added Pin To Net: NetName=5V Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=5V Pin=D?-K
+Added Pin To Net: NetName=GND Pin=D?-K
+Added Pin To Net: NetName=GND Pin=D?-K
+Added Pin To Net: NetName=GND Pin=GD?-3
+Added Pin To Net: NetName=GND Pin=GD?-4
+Added Pin To Net: NetName=GND Pin=GD?-5
+Added Pin To Net: NetName=GND Pin=LDO?-1
+Added Pin To Net: NetName=3.3V Pin=LDO?-2
+Added Pin To Net: NetName=5V Pin=LDO?-3
+Added Pin To Net: NetName=3.3V Pin=LDO?-4
+Added Pin To Net: NetName=NetPC1_1 Pin=PC1-1
+Added Pin To Net: NetName=NetPH1_1 Pin=PH1-1
+Added Pin To Net: NetName=NetPH1_2 Pin=PH1-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=3.3V Pin=R?-2
+Added Pin To Net: NetName=3.3V Pin=R?-2
+Added Pin To Net: NetName=5V Pin=R?-2
+Added Pin To Net: NetName=5V Pin=SENS-2
+Added Pin To Net: NetName=5V Pin=SERV-2
+Added Pin To Net: NetName=3.3V Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=3.3V Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-19
+Added Pin To Net: NetName=NetPA1_1 Pin=U?-25
+Added Pin To Net: NetName=GND Pin=U?-26
+Added Pin To Net: NetName=NetPB1_3 Pin=U?-34
+Added Pin To Net: NetName=NetPB1_4 Pin=U?-35
+Added Pin To Net: NetName=NetPC1_1 Pin=U?-46
+Added Pin To Net: NetName=NetC10_2 Pin=U?-48
+Added Pin To Net: NetName=GND Pin=U?-49
+Added Pin To Net: NetName=NetPA1_2 Pin=U?-67
+Added Pin To Net: NetName=NetPA1_4 Pin=U?-70
+Added Pin To Net: NetName=NetPB1_1 Pin=U?-71
+Added Pin To Net: NetName=NetC12_2 Pin=U?-73
+Added Pin To Net: NetName=GND Pin=U?-74
+Added Pin To Net: NetName=NetPB1_2 Pin=U?-77
+Added Pin To Net: NetName=NetPB2_2 Pin=U?-90
+Added Pin To Net: NetName=NetPB2_3 Pin=U?-91
+Added Pin To Net: NetName=NetR6_2 Pin=U?-94
+Added Pin To Net: NetName=NetPB2_4 Pin=U?-96
+Added Pin To Net: NetName=GND Pin=U?-99
+Added Pin To Net: NetName=GND Pin=USB?-A1
+Added Pin To Net: NetName=GND Pin=USB?-A12
+Added Pin To Net: NetName=GND Pin=USB?-B1
+Added Pin To Net: NetName=GND Pin=USB?-B12
+Added Pin To Net: NetName=GND Pin=USB?-MH1
+Added Pin To Net: NetName=GND Pin=USB?-MH2
+Added Pin To Net: NetName=GND Pin=USB?-MH3
+Added Pin To Net: NetName=GND Pin=USB?-MH4
+Added Pin To Net: NetName=11.1V Pin=VREG?-2
+Added Pin To Net: NetName=GND Pin=VREG?-3
+Added Pin To Net: NetName=5V Pin=VREG?-4
+Change Net Name : Old Net Name=11.1V New Net Name=12V
+Change Net Name : Old Net Name=NetFUSE_2 New Net Name=NetD?_A
+Added Pin To Net: NetName=11.1V Pin=C?-2
+Added Pin To Net: NetName=11.1V Pin=GD?-1
+Added Pin To Net: NetName=11.1V Pin=GD?-8
+Added Net: Name=11.1V
+Added Pin To Net: NetName=BGND Pin=BATT-2
+Added Pin To Net: NetName=BGND Pin=C14-1
+Added Pin To Net: NetName=BGND Pin=D?-A
+Added Pin To Net: NetName=BGND Pin=D?-K
+Added Pin To Net: NetName=BGND Pin=VREG?-1
+Added Net: Name=BGND
+Added Pin To Net: NetName=CC1 Pin=R?-2
+Added Pin To Net: NetName=CC1 Pin=USB?-A5
+Added Pin To Net: NetName=CC1 Pin=D?-1
+Added Net: Name=CC1
+Added Pin To Net: NetName=CC2 Pin=R?-2
+Added Pin To Net: NetName=CC2 Pin=USB?-B5
+Added Pin To Net: NetName=CC2 Pin=D?-1
+Added Net: Name=CC2
+Added Pin To Net: NetName=HSPICLK (SPI1_SCK) Pin=ESP32-12
+Added Pin To Net: NetName=HSPICLK (SPI1_SCK) Pin=U?-29
+Added Net: Name=HSPICLK (SPI1_SCK)
+Added Pin To Net: NetName=HSPICS0 (SPI1_NSS) Pin=ESP32-35
+Added Pin To Net: NetName=HSPICS0 (SPI1_NSS) Pin=U?-28
+Added Net: Name=HSPICS0 (SPI1_NSS)
+Added Pin To Net: NetName=HSPID (SPI1_MOSI) Pin=ESP32-15
+Added Pin To Net: NetName=HSPID (SPI1_MOSI) Pin=U?-31
+Added Net: Name=HSPID (SPI1_MOSI)
+Added Pin To Net: NetName=HSPIQ (SPI1_MISO) Pin=ESP32-13
+Added Pin To Net: NetName=HSPIQ (SPI1_MISO) Pin=U?-30
+Added Net: Name=HSPIQ (SPI1_MISO)
+Added Pin To Net: NetName=NetBATT_1 Pin=BATT-1
+Added Pin To Net: NetName=NetBATT_1 Pin=D?-K
+Added Pin To Net: NetName=NetBATT_1 Pin=FUSE-1
+Added Net: Name=NetBATT_1
+Added Pin To Net: NetName=NetBTN?_3 Pin=BTN?-3
+Added Pin To Net: NetName=NetBTN?_3 Pin=R?-1
+Added Pin To Net: NetName=NetBTN?_3 Pin=R?-2
+Added Net: Name=NetBTN?_3
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-100
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=GD?-6
+Added Pin To Net: NetName=NetC?_2 Pin=GD?-7
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Net: Name=NetC?_2
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Added Pin To Net: NetName=NetGD?_2 Pin=GD?-2
+Added Pin To Net: NetName=NetGD?_2 Pin=R?-2
+Added Net: Name=NetGD?_2
+Added Pin To Net: NetName=NetPC1_2 Pin=PC1-2
+Added Net: Name=NetPC1_2
+Added Pin To Net: NetName=NetPC1_3 Pin=PC1-3
+Added Net: Name=NetPC1_3
+Added Pin To Net: NetName=NetPC1_4 Pin=PC1-4
+Added Net: Name=NetPC1_4
+Added Pin To Net: NetName=NetPC2_1 Pin=PC2-1
+Added Net: Name=NetPC2_1
+Added Pin To Net: NetName=NetPC2_2 Pin=PC2-2
+Added Pin To Net: NetName=NetPC2_2 Pin=U?-17
+Added Net: Name=NetPC2_2
+Added Pin To Net: NetName=NetPC2_3 Pin=PC2-3
+Added Pin To Net: NetName=NetPC2_3 Pin=U?-18
+Added Net: Name=NetPC2_3
+Added Pin To Net: NetName=NetPC2_4 Pin=PC2-4
+Added Net: Name=NetPC2_4
+Added Pin To Net: NetName=NetPC3_1 Pin=PC3-1
+Added Net: Name=NetPC3_1
+Added Pin To Net: NetName=NetPC3_2 Pin=PC3-2
+Added Net: Name=NetPC3_2
+Added Pin To Net: NetName=NetPC3_3 Pin=PC3-3
+Added Net: Name=NetPC3_3
+Added Pin To Net: NetName=NetPC3_4 Pin=PC3-4
+Added Net: Name=NetPC3_4
+Added Pin To Net: NetName=NetPC4_1 Pin=PC4-1
+Added Net: Name=NetPC4_1
+Added Pin To Net: NetName=NetPC4_2 Pin=PC4-2
+Added Net: Name=NetPC4_2
+Added Pin To Net: NetName=NetPC4_3 Pin=PC4-3
+Added Net: Name=NetPC4_3
+Added Pin To Net: NetName=NetPC4_4 Pin=PC4-4
+Added Net: Name=NetPC4_4
+Added Pin To Net: NetName=NetPD1_1 Pin=PD1-1
+Added Net: Name=NetPD1_1
+Added Pin To Net: NetName=NetPD1_2 Pin=PD1-2
+Added Net: Name=NetPD1_2
+Added Pin To Net: NetName=NetPD1_3 Pin=PD1-3
+Added Net: Name=NetPD1_3
+Added Pin To Net: NetName=NetPD1_4 Pin=PD1-4
+Added Net: Name=NetPD1_4
+Added Pin To Net: NetName=NetPD2_1 Pin=PD2-1
+Added Net: Name=NetPD2_1
+Added Pin To Net: NetName=NetPD2_2 Pin=PD2-2
+Added Net: Name=NetPD2_2
+Added Pin To Net: NetName=NetPD2_3 Pin=PD2-3
+Added Net: Name=NetPD2_3
+Added Pin To Net: NetName=NetPD2_4 Pin=PD2-4
+Added Net: Name=NetPD2_4
+Added Pin To Net: NetName=NetPE1_1 Pin=PE1-1
+Added Net: Name=NetPE1_1
+Added Pin To Net: NetName=NetPE1_2 Pin=PE1-2
+Added Net: Name=NetPE1_2
+Added Pin To Net: NetName=NetPE1_3 Pin=PE1-3
+Added Net: Name=NetPE1_3
+Added Pin To Net: NetName=NetPE1_4 Pin=PE1-4
+Added Net: Name=NetPE1_4
+Added Pin To Net: NetName=NetPE2_1 Pin=PE2-1
+Added Net: Name=NetPE2_1
+Added Pin To Net: NetName=NetPE2_2 Pin=PE2-2
+Added Net: Name=NetPE2_2
+Added Pin To Net: NetName=NetPE2_3 Pin=PE2-3
+Added Net: Name=NetPE2_3
+Added Pin To Net: NetName=NetPE2_4 Pin=PE2-4
+Added Net: Name=NetPE2_4
+Added Pin To Net: NetName=NetPE3_1 Pin=PE3-1
+Added Net: Name=NetPE3_1
+Added Pin To Net: NetName=NetPE3_2 Pin=PE3-2
+Added Net: Name=NetPE3_2
+Added Pin To Net: NetName=NetPE3_3 Pin=PE3-3
+Added Net: Name=NetPE3_3
+Added Pin To Net: NetName=NetPE3_4 Pin=PE3-4
+Added Net: Name=NetPE3_4
+Added Pin To Net: NetName=NetPH1_3 Pin=PH1-3
+Added Pin To Net: NetName=NetPH1_3 Pin=U?-12
+Added Net: Name=NetPH1_3
+Added Pin To Net: NetName=NetPH1_4 Pin=PH1-4
+Added Pin To Net: NetName=NetPH1_4 Pin=U?-13
+Added Net: Name=NetPH1_4
+Added Pin To Net: NetName=NetPM?_1 Pin=PM?-1
+Added Pin To Net: NetName=NetPM?_1 Pin=R?-2
+Added Pin To Net: NetName=NetPM?_1 Pin=R?-2
+Added Net: Name=NetPM?_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetU?_1 Pin=U?-1
+Added Net: Name=NetU?_1
+Added Pin To Net: NetName=NetU?_2 Pin=U?-2
+Added Net: Name=NetU?_2
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Net: Name=NetU?_3
+Added Pin To Net: NetName=NetU?_4 Pin=U?-4
+Added Net: Name=NetU?_4
+Added Pin To Net: NetName=NetU?_5 Pin=U?-5
+Added Net: Name=NetU?_5
+Added Pin To Net: NetName=NetU?_7 Pin=U?-7
+Added Net: Name=NetU?_7
+Added Pin To Net: NetName=NetU?_8 Pin=U?-8
+Added Net: Name=NetU?_8
+Added Pin To Net: NetName=NetU?_9 Pin=U?-9
+Added Net: Name=NetU?_9
+Added Pin To Net: NetName=NetU?_15 Pin=U?-15
+Added Net: Name=NetU?_15
+Added Pin To Net: NetName=NetU?_16 Pin=U?-16
+Added Net: Name=NetU?_16
+Added Pin To Net: NetName=NetU?_22 Pin=U?-22
+Added Net: Name=NetU?_22
+Added Pin To Net: NetName=NetU?_23 Pin=U?-23
+Added Net: Name=NetU?_23
+Added Pin To Net: NetName=NetU?_24 Pin=U?-24
+Added Net: Name=NetU?_24
+Added Pin To Net: NetName=NetU?_32 Pin=U?-32
+Added Net: Name=NetU?_32
+Added Pin To Net: NetName=NetU?_33 Pin=U?-33
+Added Net: Name=NetU?_33
+Added Pin To Net: NetName=NetU?_36 Pin=U?-36
+Added Net: Name=NetU?_36
+Added Pin To Net: NetName=NetU?_37 Pin=U?-37
+Added Net: Name=NetU?_37
+Added Pin To Net: NetName=NetU?_38 Pin=U?-38
+Added Net: Name=NetU?_38
+Added Pin To Net: NetName=NetU?_39 Pin=U?-39
+Added Net: Name=NetU?_39
+Added Pin To Net: NetName=NetU?_40 Pin=U?-40
+Added Net: Name=NetU?_40
+Added Pin To Net: NetName=NetU?_41 Pin=U?-41
+Added Net: Name=NetU?_41
+Added Pin To Net: NetName=NetU?_42 Pin=U?-42
+Added Net: Name=NetU?_42
+Added Pin To Net: NetName=NetU?_43 Pin=U?-43
+Added Net: Name=NetU?_43
+Added Pin To Net: NetName=NetU?_44 Pin=U?-44
+Added Net: Name=NetU?_44
+Added Pin To Net: NetName=NetU?_45 Pin=U?-45
+Added Net: Name=NetU?_45
+Added Pin To Net: NetName=NetU?_47 Pin=U?-47
+Added Net: Name=NetU?_47
+Added Pin To Net: NetName=NetU?_51 Pin=U?-51
+Added Net: Name=NetU?_51
+Added Pin To Net: NetName=NetU?_52 Pin=U?-52
+Added Net: Name=NetU?_52
+Added Pin To Net: NetName=NetU?_53 Pin=U?-53
+Added Net: Name=NetU?_53
+Added Pin To Net: NetName=NetU?_54 Pin=U?-54
+Added Net: Name=NetU?_54
+Added Pin To Net: NetName=NetU?_55 Pin=U?-55
+Added Net: Name=NetU?_55
+Added Pin To Net: NetName=NetU?_56 Pin=U?-56
+Added Net: Name=NetU?_56
+Added Pin To Net: NetName=NetU?_57 Pin=U?-57
+Added Net: Name=NetU?_57
+Added Pin To Net: NetName=NetU?_58 Pin=U?-58
+Added Net: Name=NetU?_58
+Added Pin To Net: NetName=NetU?_59 Pin=U?-59
+Added Net: Name=NetU?_59
+Added Pin To Net: NetName=NetU?_60 Pin=U?-60
+Added Net: Name=NetU?_60
+Added Pin To Net: NetName=NetU?_61 Pin=U?-61
+Added Net: Name=NetU?_61
+Added Pin To Net: NetName=NetU?_62 Pin=U?-62
+Added Net: Name=NetU?_62
+Added Pin To Net: NetName=NetU?_63 Pin=U?-63
+Added Net: Name=NetU?_63
+Added Pin To Net: NetName=NetU?_64 Pin=U?-64
+Added Net: Name=NetU?_64
+Added Pin To Net: NetName=NetU?_65 Pin=U?-65
+Added Net: Name=NetU?_65
+Added Pin To Net: NetName=NetU?_66 Pin=U?-66
+Added Net: Name=NetU?_66
+Added Pin To Net: NetName=NetU?_68 Pin=U?-68
+Added Net: Name=NetU?_68
+Added Pin To Net: NetName=NetU?_72 Pin=U?-72
+Added Net: Name=NetU?_72
+Added Pin To Net: NetName=NetU?_78 Pin=U?-78
+Added Net: Name=NetU?_78
+Added Pin To Net: NetName=NetU?_79 Pin=U?-79
+Added Net: Name=NetU?_79
+Added Pin To Net: NetName=NetU?_80 Pin=U?-80
+Added Net: Name=NetU?_80
+Added Pin To Net: NetName=NetU?_81 Pin=U?-81
+Added Net: Name=NetU?_81
+Added Pin To Net: NetName=NetU?_82 Pin=U?-82
+Added Net: Name=NetU?_82
+Added Pin To Net: NetName=NetU?_83 Pin=U?-83
+Added Net: Name=NetU?_83
+Added Pin To Net: NetName=NetU?_84 Pin=U?-84
+Added Net: Name=NetU?_84
+Added Pin To Net: NetName=NetU?_85 Pin=U?-85
+Added Net: Name=NetU?_85
+Added Pin To Net: NetName=NetU?_86 Pin=U?-86
+Added Net: Name=NetU?_86
+Added Pin To Net: NetName=NetU?_87 Pin=U?-87
+Added Net: Name=NetU?_87
+Added Pin To Net: NetName=NetU?_88 Pin=U?-88
+Added Net: Name=NetU?_88
+Added Pin To Net: NetName=NetU?_92 Pin=U?-92
+Added Net: Name=NetU?_92
+Added Pin To Net: NetName=NetU?_93 Pin=U?-93
+Added Net: Name=NetU?_93
+Added Pin To Net: NetName=NetU?_95 Pin=U?-95
+Added Net: Name=NetU?_95
+Added Pin To Net: NetName=NetU?_97 Pin=U?-97
+Added Net: Name=NetU?_97
+Added Pin To Net: NetName=NetU?_98 Pin=U?-98
+Added Net: Name=NetU?_98
+Added Pin To Net: NetName=NRST Pin=PRST-2
+Added Pin To Net: NetName=NRST Pin=U?-14
+Added Net: Name=NRST
+Add Net: Net with name "NRST" already exists
+Added Pin To Net: NetName=SWCLK Pin=U?-76
+Added Pin To Net: NetName=SWCLK Pin=USB?-A3
+Added Pin To Net: NetName=SWCLK Pin=USB?-B3
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=USB?-A2
+Added Pin To Net: NetName=SWDIO Pin=USB?-B2
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=SWO Pin=U?-89
+Added Pin To Net: NetName=SWO Pin=USB?-A11
+Added Pin To Net: NetName=SWO Pin=USB?-B11
+Added Net: Name=SWO
+Added Pin To Net: NetName=UART3_PC_RX Pin=UART_PC?-2
+Added Pin To Net: NetName=UART3_PC_RX Pin=USB?-A7
+Added Pin To Net: NetName=UART3_PC_RX Pin=USB?-B7
+Added Pin To Net: NetName=UART3_PC_RX Pin=D?-1
+Added Net: Name=UART3_PC_RX
+Added Pin To Net: NetName=UART3_PC_TX Pin=UART_PC?-1
+Added Pin To Net: NetName=UART3_PC_TX Pin=USB?-A6
+Added Pin To Net: NetName=UART3_PC_TX Pin=USB?-B6
+Added Pin To Net: NetName=UART3_PC_TX Pin=D?-1
+Added Net: Name=UART3_PC_TX
+Added Pin To Net: NetName=VBUS Pin=D?-A
+Added Pin To Net: NetName=VBUS Pin=USB?-A4
+Added Pin To Net: NetName=VBUS Pin=USB?-A9
+Added Pin To Net: NetName=VBUS Pin=USB?-B4
+Added Pin To Net: NetName=VBUS Pin=USB?-B9
+Added Pin To Net: NetName=VBUS Pin=D?-1
+Added Net: Name=VBUS
+Added Member To Class: ClassName=U_STM_ESP Member=Component BTN? Button
+Added Member To Class: ClassName=U_Connectors Member=Component C? 100nF
+Added Member To Class: ClassName=U_Connectors Member=Component C? 4.7µF
+Added Member To Class: ClassName=U_Connectors Member=Component C? 1nF
+Added Member To Class: ClassName=U_PowerSupply Member=Component C? 1uF
+Added Member To Class: ClassName=U_PowerSupply Member=Component C? 1uF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 2.2uF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_Connectors Member=Component D? SCHOTTKY
+Added Member To Class: ClassName=U_Connectors Member=Component D? TVS
+Added Member To Class: ClassName=U_Connectors Member=Component D? TVS
+Added Member To Class: ClassName=U_Connectors Member=Component D? TVS
+Added Member To Class: ClassName=U_Connectors Member=Component D? TVS
+Added Member To Class: ClassName=U_Connectors Member=Component D? TVS
+Added Member To Class: ClassName=U_PowerSupply Member=Component D? RED LED
+Added Member To Class: ClassName=U_PowerSupply Member=Component D? BLUE LED
+Added Member To Class: ClassName=U_PowerSupply Member=Component D? GREEN LED
+Added Member To Class: ClassName=U_Connectors Member=Component ESC1 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component ESC2 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component ESC3 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component ESC4 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component GD? TC4431VPA
+Added Member To Class: ClassName=U_PowerSupply Member=Component LDO? TLV1117LV33DCYR
+Added Member To Class: ClassName=U_Connectors Member=Component PC3 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component PC4 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component PM? IXTP120P065T
+Added Member To Class: ClassName=U_STM_ESP Member=Component PRST Connector
+Added Member To Class: ClassName=U_Connectors Member=Component R? 10K
+Added Member To Class: ClassName=U_Connectors Member=Component R? 1K
+Added Member To Class: ClassName=U_Connectors Member=Component R? 5.1K
+Added Member To Class: ClassName=U_Connectors Member=Component R? 5.1K
+Added Member To Class: ClassName=U_Connectors Member=Component R? 130R
+Added Member To Class: ClassName=U_PowerSupply Member=Component R? 320R
+Added Member To Class: ClassName=U_PowerSupply Member=Component R? 150R
+Added Member To Class: ClassName=U_STM_ESP Member=Component R? 10K
+Added Member To Class: ClassName=U_STM_ESP Member=Component R? 4K70
+Added Member To Class: ClassName=U_Connectors Member=Component SENS Connector
+Added Member To Class: ClassName=U_Connectors Member=Component SERV Connector
+Added Member To Class: ClassName=U_STM_ESP Member=Component U? STM32F722VET6
+Added Member To Class: ClassName=U_STM_ESP Member=Component U? STM32F722VET6
+Added Member To Class: ClassName=U_STM_ESP Member=Component U? STM32F722VET6
+Added Member To Class: ClassName=U_Connectors Member=Component UART_PC? Connector
+Added Member To Class: ClassName=U_Connectors Member=Component USB? USB4056-03-A
+Added Member To Class: ClassName=U_PowerSupply Member=Component VREG? TMU_3-1211
