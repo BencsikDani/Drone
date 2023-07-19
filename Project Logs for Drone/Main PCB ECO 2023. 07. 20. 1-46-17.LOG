@@ -1,0 +1,187 @@
+Removed Pin From Net: NetName=NetPC1_1 Pin=PC1-1
+Removed Pin From Net: NetName=NetPC1_2 Pin=PC1-2
+Removed Pin From Net: NetName=NetPC1_3 Pin=PC1-3
+Removed Pin From Net: NetName=NetPC1_4 Pin=PC1-4
+Removed Pin From Net: NetName=NetPC2_1 Pin=PC2-1
+Removed Pin From Net: NetName=NetPC2_2 Pin=PC2-2
+Removed Pin From Net: NetName=NetPC2_3 Pin=PC2-3
+Removed Pin From Net: NetName=NetPC2_4 Pin=PC2-4
+Removed Pin From Net: NetName=NetPC3_1 Pin=PC3-1
+Removed Pin From Net: NetName=NetPC3_2 Pin=PC3-2
+Removed Pin From Net: NetName=NetPC3_3 Pin=PC3-3
+Removed Pin From Net: NetName=NetPC3_4 Pin=PC3-4
+Removed Pin From Net: NetName=NetPE1_1 Pin=PE1-1
+Removed Pin From Net: NetName=NetPE1_2 Pin=PE1-2
+Removed Pin From Net: NetName=NetPE1_3 Pin=PE1-3
+Removed Pin From Net: NetName=NetPE1_4 Pin=PE1-4
+Removed Pin From Net: NetName=NetPE2_1 Pin=PE2-1
+Removed Pin From Net: NetName=NetPC1_4 Pin=U1-15
+Removed Pin From Net: NetName=NetPC2_1 Pin=U1-16
+Removed Pin From Net: NetName=NetPC2_2 Pin=U1-17
+Removed Pin From Net: NetName=NetPC2_3 Pin=U1-18
+Removed Pin From Net: NetName=NetPC2_4 Pin=U1-32
+Removed Pin From Net: NetName=NetPC3_1 Pin=U1-33
+Removed Pin From Net: NetName=NetPB1_4 Pin=U1-35
+Removed Pin From Net: NetName=NetPB2_1 Pin=U1-36
+Removed Pin From Net: NetName=NetPC1_1 Pin=U1-46
+Removed Pin From Net: NetName=NetPC1_2 Pin=U1-47
+Removed Pin From Net: NetName=NetPC1_3 Pin=U1-51
+Removed Pin From Net: NetName=NetPD2_3 Pin=U1-57
+Removed Pin From Net: NetName=NetPD2_4 Pin=U1-58
+Removed Pin From Net: NetName=NetPE1_1 Pin=U1-59
+Removed Pin From Net: NetName=NetPE1_2 Pin=U1-60
+Removed Pin From Net: NetName=NetPE1_3 Pin=U1-61
+Removed Pin From Net: NetName=NetPC3_2 Pin=U1-64
+Removed Pin From Net: NetName=NetPC3_3 Pin=U1-65
+Removed Pin From Net: NetName=NetPC3_4 Pin=U1-66
+Removed Pin From Net: NetName=NetPD1_1 Pin=U1-81
+Removed Pin From Net: NetName=NetPD1_2 Pin=U1-82
+Removed Pin From Net: NetName=NetPD1_3 Pin=U1-83
+Removed Pin From Net: NetName=NetPD1_4 Pin=U1-84
+Removed Pin From Net: NetName=NetPD2_1 Pin=U1-85
+Removed Pin From Net: NetName=NetPD2_2 Pin=U1-88
+Removed Pin From Net: NetName=NetPB2_2 Pin=U1-90
+Removed Pin From Net: NetName=NetPB2_3 Pin=U1-91
+Removed Pin From Net: NetName=NetPB2_4 Pin=U1-96
+Removed Pin From Net: NetName=NetPE1_4 Pin=U1-97
+Removed Pin From Net: NetName=NetPE2_1 Pin=U1-98
+Change Component Designator: OldDesignator=BOOT1 NewDesignator=BOOT0
+Change Component Designator: OldDesignator=ESP1 NewDesignator=ESP32
+Change Component Designator: OldDesignator=GD1 NewDesignator=GD
+Change Component Designator: OldDesignator=IMU1 NewDesignator=IMU
+Change Component Designator: OldDesignator=MAG1 NewDesignator=MAG
+Change Component Designator: OldDesignator=PC1 NewDesignator=PB3
+Change Component Designator: OldDesignator=PC2 NewDesignator=PC1
+Change Component Designator: OldDesignator=PC3 NewDesignator=PC2
+Change Component Designator: OldDesignator=PC4 NewDesignator=PC3
+Change Component Designator: OldDesignator=PDIS1 NewDesignator=PDIS
+Change Component Designator: OldDesignator=PE1 NewDesignator=PD3
+Change Component Designator: OldDesignator=PE2 NewDesignator=PE1
+Change Component Designator: OldDesignator=PGPS1 NewDesignator=PGPS
+Change Component Designator: OldDesignator=SENS1 NewDesignator=SENS
+Change Component Designator: OldDesignator=SERV1 NewDesignator=SERV
+Change Component Designator: OldDesignator=UART_PC1 NewDesignator=UART_PC
+Change Component Designator: OldDesignator=USB1 NewDesignator=USB
+Added Component: Designator=PE2(FP_CONN2_TUSKE_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetPC1_1 Pin=PC1-1
+Added Pin To Net: NetName=NetPC1_2 Pin=PC1-2
+Added Pin To Net: NetName=NetPC1_3 Pin=PC1-3
+Added Pin To Net: NetName=NetPC1_4 Pin=PC1-4
+Added Pin To Net: NetName=NetPC2_1 Pin=PC2-1
+Added Pin To Net: NetName=NetPC2_2 Pin=PC2-2
+Added Pin To Net: NetName=NetPC2_3 Pin=PC2-3
+Added Pin To Net: NetName=NetPC2_4 Pin=PC2-4
+Added Pin To Net: NetName=NetPC3_1 Pin=PC3-1
+Added Pin To Net: NetName=NetPC3_2 Pin=PC3-2
+Added Pin To Net: NetName=NetPC3_3 Pin=PC3-3
+Added Pin To Net: NetName=NetPC3_4 Pin=PC3-4
+Added Pin To Net: NetName=NetPE1_1 Pin=PE1-1
+Added Pin To Net: NetName=NetPE1_2 Pin=PE1-2
+Added Pin To Net: NetName=NetPE1_3 Pin=PE1-3
+Added Pin To Net: NetName=NetPE1_4 Pin=PE1-4
+Added Pin To Net: NetName=NetPE2_1 Pin=PE2-1
+Added Pin To Net: NetName=GND Pin=PE2-2
+Added Pin To Net: NetName=NetPE1_3 Pin=U1-1
+Added Pin To Net: NetName=NetPE1_4 Pin=U1-2
+Added Pin To Net: NetName=NetPE2_1 Pin=U1-3
+Added Pin To Net: NetName=NetPC3_3 Pin=U1-7
+Added Pin To Net: NetName=NetPC3_4 Pin=U1-8
+Added Pin To Net: NetName=NetPD1_1 Pin=U1-9
+Added Pin To Net: NetName=NetPC1_1 Pin=U1-15
+Added Pin To Net: NetName=NetPC1_2 Pin=U1-16
+Added Pin To Net: NetName=NetPC1_3 Pin=U1-17
+Added Pin To Net: NetName=NetPC1_4 Pin=U1-18
+Added Pin To Net: NetName=NetPC2_1 Pin=U1-32
+Added Pin To Net: NetName=NetPC2_2 Pin=U1-33
+Added Pin To Net: NetName=NetPB1_4 Pin=U1-34
+Added Pin To Net: NetName=NetPB2_1 Pin=U1-35
+Added Pin To Net: NetName=NetPB2_2 Pin=U1-36
+Added Pin To Net: NetName=NetPD2_4 Pin=U1-57
+Added Pin To Net: NetName=NetPC2_3 Pin=U1-64
+Added Pin To Net: NetName=NetPC2_4 Pin=U1-65
+Added Pin To Net: NetName=NetPC3_1 Pin=U1-66
+Added Pin To Net: NetName=NetPC3_2 Pin=U1-80
+Added Pin To Net: NetName=NetPD1_2 Pin=U1-81
+Added Pin To Net: NetName=NetPD1_3 Pin=U1-82
+Added Pin To Net: NetName=NetPD1_4 Pin=U1-83
+Added Pin To Net: NetName=NetPD2_1 Pin=U1-84
+Added Pin To Net: NetName=NetPD2_2 Pin=U1-85
+Added Pin To Net: NetName=NetPD2_3 Pin=U1-88
+Added Pin To Net: NetName=NetPB2_3 Pin=U1-90
+Added Pin To Net: NetName=NetPB2_4 Pin=U1-91
+Added Pin To Net: NetName=NetPE1_1 Pin=U1-97
+Added Pin To Net: NetName=NetPE1_2 Pin=U1-98
+Change Net Name : Old Net Name=NetBOOT1_2 New Net Name=NetBOOT0_2
+Change Net Name : Old Net Name=NetESP1_2 New Net Name=NetESP32_2
+Change Net Name : Old Net Name=NetESP1_3 New Net Name=NetESP32_3
+Change Net Name : Old Net Name=NetESP1_4 New Net Name=NetESP32_4
+Change Net Name : Old Net Name=NetESP1_5 New Net Name=NetESP32_5
+Change Net Name : Old Net Name=NetESP1_6 New Net Name=NetESP32_6
+Change Net Name : Old Net Name=NetESP1_7 New Net Name=NetESP32_7
+Change Net Name : Old Net Name=NetESP1_8 New Net Name=NetESP32_8
+Change Net Name : Old Net Name=NetESP1_9 New Net Name=NetESP32_9
+Change Net Name : Old Net Name=NetESP1_10 New Net Name=NetESP32_10
+Change Net Name : Old Net Name=NetESP1_11 New Net Name=NetESP32_11
+Change Net Name : Old Net Name=NetESP1_16 New Net Name=NetESP32_16
+Change Net Name : Old Net Name=NetESP1_17 New Net Name=NetESP32_17
+Change Net Name : Old Net Name=NetESP1_18 New Net Name=NetESP32_18
+Change Net Name : Old Net Name=NetESP1_21 New Net Name=NetESP32_21
+Change Net Name : Old Net Name=NetESP1_22 New Net Name=NetESP32_22
+Change Net Name : Old Net Name=NetESP1_23 New Net Name=NetESP32_23
+Change Net Name : Old Net Name=NetESP1_24 New Net Name=NetESP32_24
+Change Net Name : Old Net Name=NetESP1_25 New Net Name=NetESP32_25
+Change Net Name : Old Net Name=NetESP1_27 New Net Name=NetESP32_27
+Change Net Name : Old Net Name=NetESP1_28 New Net Name=NetESP32_28
+Change Net Name : Old Net Name=NetESP1_29 New Net Name=NetESP32_29
+Change Net Name : Old Net Name=NetESP1_30 New Net Name=NetESP32_30
+Change Net Name : Old Net Name=NetESP1_31 New Net Name=NetESP32_31
+Change Net Name : Old Net Name=NetESP1_32 New Net Name=NetESP32_32
+Change Net Name : Old Net Name=NetESP1_33 New Net Name=NetESP32_33
+Change Net Name : Old Net Name=NetESP1_34 New Net Name=NetESP32_34
+Change Net Name : Old Net Name=NetESP1_36 New Net Name=NetESP32_36
+Change Net Name : Old Net Name=NetESP1_37 New Net Name=NetESP32_37
+Change Net Name : Old Net Name=NetESP1_38 New Net Name=NetESP32_38
+Change Net Name : Old Net Name=NetGD1_2 New Net Name=NetGD_2
+Change Net Name : Old Net Name=NetIMU1_4 New Net Name=NetIMU_4
+Change Net Name : Old Net Name=NetIMU1_5 New Net Name=NetIMU_5
+Change Net Name : Old Net Name=NetIMU1_6 New Net Name=NetIMU_6
+Change Net Name : Old Net Name=NetIMU1_7 New Net Name=NetIMU_7
+Change Net Name : Old Net Name=NetIMU1_8 New Net Name=NetIMU_8
+Change Net Name : Old Net Name=NetMAG1_3 New Net Name=NetMAG_3
+Change Net Name : Old Net Name=NetMAG1_4 New Net Name=NetMAG_4
+Change Net Name : Old Net Name=NetMAG1_5 New Net Name=NetMAG_5
+Change Net Name : Old Net Name=NetPDIS1_2 New Net Name=NetPDIS_2
+Change Net Name : Old Net Name=NetPDIS1_3 New Net Name=NetPDIS_3
+Change Net Name : Old Net Name=NetPGPS1_1 New Net Name=NetPGPS_1
+Change Net Name : Old Net Name=NetPGPS1_2 New Net Name=NetPGPS_2
+Change Net Name : Old Net Name=NetPGPS1_3 New Net Name=NetPGPS_3
+Change Net Name : Old Net Name=NetSENS1_3 New Net Name=NetSENS_3
+Change Net Name : Old Net Name=NetSERV1_3 New Net Name=NetSERV_3
+Added Pin To Net: NetName=NetPB3_1 Pin=PB3-1
+Added Pin To Net: NetName=NetPB3_1 Pin=U1-96
+Added Net: Name=NetPB3_1
+Added Pin To Net: NetName=NetPB3_2 Pin=PB3-2
+Added Pin To Net: NetName=NetPB3_2 Pin=U1-46
+Added Net: Name=NetPB3_2
+Added Pin To Net: NetName=NetPB3_3 Pin=PB3-3
+Added Pin To Net: NetName=NetPB3_3 Pin=U1-47
+Added Net: Name=NetPB3_3
+Added Pin To Net: NetName=NetPB3_4 Pin=PB3-4
+Added Pin To Net: NetName=NetPB3_4 Pin=U1-51
+Added Net: Name=NetPB3_4
+Added Pin To Net: NetName=NetPD3_1 Pin=PD3-1
+Added Pin To Net: NetName=NetPD3_1 Pin=U1-58
+Added Net: Name=NetPD3_1
+Added Pin To Net: NetName=NetPD3_2 Pin=PD3-2
+Added Pin To Net: NetName=NetPD3_2 Pin=U1-59
+Added Net: Name=NetPD3_2
+Added Pin To Net: NetName=NetPD3_3 Pin=PD3-3
+Added Pin To Net: NetName=NetPD3_3 Pin=U1-60
+Added Net: Name=NetPD3_3
+Added Pin To Net: NetName=NetPD3_4 Pin=PD3-4
+Added Pin To Net: NetName=NetPD3_4 Pin=U1-61
+Added Net: Name=NetPD3_4
+Added Member To Class: ClassName=Connectors Member=Component PE2 Connector
