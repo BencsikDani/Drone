@@ -1,0 +1,155 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=NRST Pin=PRST-2
+Added Component: Designator=U?(LQFP100-14x14mm)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(LQFP100-14x14mm)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(LQFP100-14x14mm)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NRST Pin=PRST-3
+Added Pin To Net: NetName=NetU?_1 Pin=U?-1
+Added Pin To Net: NetName=NetU?_2 Pin=U?-2
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Pin To Net: NetName=NetU?_4 Pin=U?-4
+Added Pin To Net: NetName=NetU?_5 Pin=U?-5
+Added Pin To Net: NetName=3.3V Pin=U?-6
+Added Pin To Net: NetName=NetU?_7 Pin=U?-7
+Added Pin To Net: NetName=NetU?_8 Pin=U?-8
+Added Pin To Net: NetName=NetU?_9 Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=3.3V Pin=U?-11
+Added Pin To Net: NetName=NetPH1_3 Pin=U?-12
+Added Pin To Net: NetName=NetPH1_4 Pin=U?-13
+Added Pin To Net: NetName=NetU?_15 Pin=U?-15
+Added Pin To Net: NetName=NetU?_16 Pin=U?-16
+Added Pin To Net: NetName=NetPC2_2 Pin=U?-17
+Added Pin To Net: NetName=NetPC2_3 Pin=U?-18
+Added Pin To Net: NetName=GND Pin=U?-19
+Added Pin To Net: NetName=NetU?_22 Pin=U?-22
+Added Pin To Net: NetName=NetU?_23 Pin=U?-23
+Added Pin To Net: NetName=NetU?_24 Pin=U?-24
+Added Pin To Net: NetName=NetPA1_1 Pin=U?-25
+Added Pin To Net: NetName=GND Pin=U?-26
+Added Pin To Net: NetName=NetC?_1 Pin=U?-27
+Added Pin To Net: NetName=HSPICS0 (SPI1_NSS) Pin=U?-28
+Added Pin To Net: NetName=HSPICLK (SPI1_SCK) Pin=U?-29
+Added Pin To Net: NetName=HSPIQ (SPI1_MISO) Pin=U?-30
+Added Pin To Net: NetName=HSPID (SPI1_MOSI) Pin=U?-31
+Added Pin To Net: NetName=NetU?_32 Pin=U?-32
+Added Pin To Net: NetName=NetU?_33 Pin=U?-33
+Added Pin To Net: NetName=NetPB1_3 Pin=U?-34
+Added Pin To Net: NetName=NetPB1_4 Pin=U?-35
+Added Pin To Net: NetName=NetU?_36 Pin=U?-36
+Added Pin To Net: NetName=NetU?_37 Pin=U?-37
+Added Pin To Net: NetName=NetU?_38 Pin=U?-38
+Added Pin To Net: NetName=NetU?_39 Pin=U?-39
+Added Pin To Net: NetName=NetU?_40 Pin=U?-40
+Added Pin To Net: NetName=NetU?_41 Pin=U?-41
+Added Pin To Net: NetName=NetU?_42 Pin=U?-42
+Added Pin To Net: NetName=NetU?_43 Pin=U?-43
+Added Pin To Net: NetName=NetU?_44 Pin=U?-44
+Added Pin To Net: NetName=NetU?_45 Pin=U?-45
+Added Pin To Net: NetName=NetPC1_1 Pin=U?-46
+Added Pin To Net: NetName=NetU?_47 Pin=U?-47
+Added Pin To Net: NetName=NetC10_2 Pin=U?-48
+Added Pin To Net: NetName=GND Pin=U?-49
+Added Pin To Net: NetName=NetU?_51 Pin=U?-51
+Added Pin To Net: NetName=NetU?_52 Pin=U?-52
+Added Pin To Net: NetName=NetU?_53 Pin=U?-53
+Added Pin To Net: NetName=NetU?_54 Pin=U?-54
+Added Pin To Net: NetName=NetU?_55 Pin=U?-55
+Added Pin To Net: NetName=NetU?_56 Pin=U?-56
+Added Pin To Net: NetName=NetU?_57 Pin=U?-57
+Added Pin To Net: NetName=NetU?_58 Pin=U?-58
+Added Pin To Net: NetName=NetU?_59 Pin=U?-59
+Added Pin To Net: NetName=NetU?_60 Pin=U?-60
+Added Pin To Net: NetName=NetU?_61 Pin=U?-61
+Added Pin To Net: NetName=NetU?_62 Pin=U?-62
+Added Pin To Net: NetName=NetU?_63 Pin=U?-63
+Added Pin To Net: NetName=NetU?_64 Pin=U?-64
+Added Pin To Net: NetName=NetU?_65 Pin=U?-65
+Added Pin To Net: NetName=NetU?_66 Pin=U?-66
+Added Pin To Net: NetName=NetPA1_2 Pin=U?-67
+Added Pin To Net: NetName=NetU?_68 Pin=U?-68
+Added Pin To Net: NetName=NetPA1_4 Pin=U?-70
+Added Pin To Net: NetName=NetPB1_1 Pin=U?-71
+Added Pin To Net: NetName=NetU?_72 Pin=U?-72
+Added Pin To Net: NetName=NetC12_2 Pin=U?-73
+Added Pin To Net: NetName=GND Pin=U?-74
+Added Pin To Net: NetName=SWCLK Pin=U?-76
+Added Pin To Net: NetName=NetPB1_2 Pin=U?-77
+Added Pin To Net: NetName=NetU?_78 Pin=U?-78
+Added Pin To Net: NetName=NetU?_79 Pin=U?-79
+Added Pin To Net: NetName=NetU?_80 Pin=U?-80
+Added Pin To Net: NetName=NetU?_81 Pin=U?-81
+Added Pin To Net: NetName=NetU?_82 Pin=U?-82
+Added Pin To Net: NetName=NetU?_83 Pin=U?-83
+Added Pin To Net: NetName=NetU?_84 Pin=U?-84
+Added Pin To Net: NetName=NetU?_85 Pin=U?-85
+Added Pin To Net: NetName=NetU?_86 Pin=U?-86
+Added Pin To Net: NetName=NetU?_87 Pin=U?-87
+Added Pin To Net: NetName=NetU?_88 Pin=U?-88
+Added Pin To Net: NetName=SWO Pin=U?-89
+Added Pin To Net: NetName=NetPB2_2 Pin=U?-90
+Added Pin To Net: NetName=NetPB2_3 Pin=U?-91
+Added Pin To Net: NetName=NetU?_92 Pin=U?-92
+Added Pin To Net: NetName=NetU?_93 Pin=U?-93
+Added Pin To Net: NetName=NetR6_2 Pin=U?-94
+Added Pin To Net: NetName=NetU?_95 Pin=U?-95
+Added Pin To Net: NetName=NetPB2_4 Pin=U?-96
+Added Pin To Net: NetName=NetU?_97 Pin=U?-97
+Added Pin To Net: NetName=NetU?_98 Pin=U?-98
+Added Pin To Net: NetName=GND Pin=U?-99
+Added Pin To Net: NetName=NRST Pin=USB?-A10
+Added Pin To Net: NetName=NRST Pin=USB?-B10
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NRST" already exists
+Added Member To Class: ClassName=U_Connectors Member=Component C? 4.7µF
+Added Member To Class: ClassName=U_Connectors Member=Component C? 1nF
+Added Member To Class: ClassName=U_PowerSupply Member=Component C? 1uF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_STM_ESP Member=Component C? 100nF
+Added Member To Class: ClassName=U_Connectors Member=Component D? TVS
+Added Member To Class: ClassName=U_Connectors Member=Component D? TVS
+Added Member To Class: ClassName=U_Connectors Member=Component D? SCHOTTKY
+Added Member To Class: ClassName=U_Connectors Member=Component D? TVS
+Added Member To Class: ClassName=U_Connectors Member=Component D? TVS
+Added Member To Class: ClassName=U_PowerSupply Member=Component D? RED LED
+Added Member To Class: ClassName=U_PowerSupply Member=Component D? TVS
+Added Member To Class: ClassName=U_PowerSupply Member=Component D? SCHOTTKY
+Added Member To Class: ClassName=U_PowerSupply Member=Component D? BLUE LED
+Added Member To Class: ClassName=U_Connectors Member=Component PC1 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component PC2 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component PE1 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component PE2 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component PE3 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component PH1 Connector
+Added Member To Class: ClassName=U_Connectors Member=Component R? 10K
+Added Member To Class: ClassName=U_Connectors Member=Component R? 1K
+Added Member To Class: ClassName=U_Connectors Member=Component R? 5.1K
+Added Member To Class: ClassName=U_Connectors Member=Component R? 130R
+Added Member To Class: ClassName=U_PowerSupply Member=Component R? 320R
+Added Member To Class: ClassName=U_STM_ESP Member=Component R? 10K
+Added Member To Class: ClassName=U_STM_ESP Member=Component U? STM32F722VET6
+Added Member To Class: ClassName=U_STM_ESP Member=Component U? STM32F722VET6
+Added Member To Class: ClassName=U_STM_ESP Member=Component U? STM32F722VET6
