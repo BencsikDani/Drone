@@ -1,0 +1,7 @@
+Change Component Designator: Old Designator=C3 New Designator=C4
+Change Component Designator: Old Designator=C4 New Designator=C5
+Change Component Designator: Old Designator=C5 New Designator=C3
+Change Component Designator: Old Designator=IMU New Designator=IMU1
+Change Component Designator: Old Designator=MAG New Designator=MAG1
+Change Component Designator: Old Designator=PDIS New Designator=PDIS1
+Change Component Designator: Old Designator=PGPS New Designator=PGPS1
