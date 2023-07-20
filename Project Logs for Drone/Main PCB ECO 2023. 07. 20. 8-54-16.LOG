@@ -1,0 +1,34 @@
+Added Component: Designator=USB(USB4056-03-A_REVA2)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.jp/datasheet/2/837/usb4056-2448808.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "3.56mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "GCT (GLOBAL CONNECTOR TECHNOLOGY)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "USB4056-03-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "640-USB4056-03-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/GCT/USB4056-03-A?qs=QNEnbhJQKvbZ7hZzgFEugA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=USB-A1
+Added Pin To Net: NetName=SWDIO Pin=USB-A2
+Added Pin To Net: NetName=SWCLK Pin=USB-A3
+Added Pin To Net: NetName=VBUS Pin=USB-A4
+Added Pin To Net: NetName=CC1 Pin=USB-A5
+Added Pin To Net: NetName=UART3_PC_TX Pin=USB-A6
+Added Pin To Net: NetName=UART3_PC_RX Pin=USB-A7
+Added Pin To Net: NetName=VBUS Pin=USB-A9
+Added Pin To Net: NetName=NRST Pin=USB-A10
+Added Pin To Net: NetName=SWO Pin=USB-A11
+Added Pin To Net: NetName=GND Pin=USB-A12
+Added Pin To Net: NetName=GND Pin=USB-B1
+Added Pin To Net: NetName=SWDIO Pin=USB-B2
+Added Pin To Net: NetName=SWCLK Pin=USB-B3
+Added Pin To Net: NetName=VBUS Pin=USB-B4
+Added Pin To Net: NetName=CC2 Pin=USB-B5
+Added Pin To Net: NetName=UART3_PC_TX Pin=USB-B6
+Added Pin To Net: NetName=UART3_PC_RX Pin=USB-B7
+Added Pin To Net: NetName=VBUS Pin=USB-B9
+Added Pin To Net: NetName=NRST Pin=USB-B10
+Added Pin To Net: NetName=SWO Pin=USB-B11
+Added Pin To Net: NetName=GND Pin=USB-B12
+Add Pin To Net: Unknown Pin: Pin USB-MH1
+Add Pin To Net: Unknown Pin: Pin USB-MH2
+Add Pin To Net: Unknown Pin: Pin USB-MH3
+Add Pin To Net: Unknown Pin: Pin USB-MH4
+Added Member To Class: ClassName=Connectors Member=Component USB USB4056-03-A
