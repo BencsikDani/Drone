@@ -1,0 +1,42 @@
+Removed Member From Class: ClassName=STM_ESP Member=C14
+Removed Member From Class: ClassName=STM_ESP Member=C16
+Removed Member From Class: ClassName=STM_ESP Member=C17
+Change Component Comment : Designator=R12 Old Comment=?K New Comment=4K70
+Change Component Comment : Designator=R9 Old Comment=?K New Comment=200R
+Change component parameters: Designator = "R9" ("R9"); Footprint = "FP_0805_RES"; UniqueID = "\XTAIMIJB" ("\XTAIMIJB")
+Change component parameters (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "FP_0805_RES"; UniqueID = "\HFWQRUDM" ("\HFWQRUDM")
+Change component parameters (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4K70"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=STM_ESP Member=Component C2 2.2uF
+Added Member To Class: ClassName=STM_ESP Member=Component C3 2.2uF
+Added Member To Class: ClassName=STM_ESP Member=Component C5 100nF
+Added Member To Class: ClassName=STM_ESP Member=Component C6 100nF
+Added Member To Class: ClassName=STM_ESP Member=Component C7 100nF
+Added Member To Class: ClassName=STM_ESP Member=Component C8 100nF
+Added Member To Class: ClassName=STM_ESP Member=Component C10 100nF
+Added Member To Class: ClassName=STM_ESP Member=Component C11 100nF
+Added Member To Class: ClassName=Connectors Member=Component D2 TVS
+Added Member To Class: ClassName=Connectors Member=Component D4 TVS
+Added Member To Class: ClassName=PowerSupply Member=Component D8 TVS
+Added Member To Class: ClassName=Connectors Member=Component PD1 Connector
+Added Member To Class: ClassName=Connectors Member=Component PE2 Connector
+Added Member To Class: ClassName=Connectors Member=Component PE3 Connector
+Added Member To Class: ClassName=Connectors Member=Component PESP3 Connector
+Added Member To Class: ClassName=Connectors Member=Component PESP4 Connector
+Added Member To Class: ClassName=Connectors Member=Component PESP5 Connector
+Added Member To Class: ClassName=Connectors Member=Component PESP7 Connector
+Added Member To Class: ClassName=STM_ESP Member=Component R2 4K70
+Added Member To Class: ClassName=Connectors Member=Component R3 10K
+Added Member To Class: ClassName=Connectors Member=Component R4 5.1K
+Added Member To Class: ClassName=ESCDown Member=Component R11 10K
+Added Member To Class: ClassName=ESCDown Member=Component R12 4K70
