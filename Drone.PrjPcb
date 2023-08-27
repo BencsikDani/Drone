@@ -189,94 +189,98 @@ DocumentPath=Project Outputs for Drone\Design Rule Check - Main.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Drone\Main.DRR
+DocumentPath=Project Outputs for Drone\Footprint Comparison - Main.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Drone\Main.EXTREP
+DocumentPath=Project Outputs for Drone\Main.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Drone\Main.GBL
+DocumentPath=Project Outputs for Drone\Main.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Drone\Main.GBO
+DocumentPath=Project Outputs for Drone\Main.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Drone\Main.GBP
+DocumentPath=Project Outputs for Drone\Main.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Drone\Main.GBS
+DocumentPath=Project Outputs for Drone\Main.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Drone\Main.GD1
+DocumentPath=Project Outputs for Drone\Main.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Drone\Main.GG1
+DocumentPath=Project Outputs for Drone\Main.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Drone\Main.GM1
+DocumentPath=Project Outputs for Drone\Main.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Drone\Main.GM5
+DocumentPath=Project Outputs for Drone\Main.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Drone\Main.GM13
+DocumentPath=Project Outputs for Drone\Main.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Drone\Main.GM15
+DocumentPath=Project Outputs for Drone\Main.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Drone\Main.GM20
+DocumentPath=Project Outputs for Drone\Main.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Drone\Main.GPB
+DocumentPath=Project Outputs for Drone\Main.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Drone\Main.GPT
+DocumentPath=Project Outputs for Drone\Main.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Drone\Main.GTL
+DocumentPath=Project Outputs for Drone\Main.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Drone\Main.GTO
+DocumentPath=Project Outputs for Drone\Main.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Drone\Main.GTP
+DocumentPath=Project Outputs for Drone\Main.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Drone\Main.GTS
+DocumentPath=Project Outputs for Drone\Main.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Drone\Main.LDP
+DocumentPath=Project Outputs for Drone\Main.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Drone\Main.REP
+DocumentPath=Project Outputs for Drone\Main.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Drone\Main.RUL
+DocumentPath=Project Outputs for Drone\Main.REP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
+DocumentPath=Project Outputs for Drone\Main.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
 DocumentPath=Project Outputs for Drone\Main.TXT
 DItemRevisionGUID=
 
@@ -1584,8 +1588,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=hallglib.SchLib
-ComponentDesignItemID0=IXTP120P065T
-ComponentSymbolReference0=IXTP120P065T
+ComponentDesignItemID0=Optocoupler
+ComponentSymbolReference0=Optocoupler
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1601,34 +1605,31 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
+ParameterName0=Availability
 ParameterUpdate0=1
-ParameterName1=Component Kind
+ParameterName1=Comment
 ParameterUpdate1=1
-ParameterName2=Datasheet Link
+ParameterName2=Component Kind
 ParameterUpdate2=1
 ParameterName3=Description
 ParameterUpdate3=1
-ParameterName4=Geometry.Height
+ParameterName4=Library Reference
 ParameterUpdate4=1
-ParameterName5=Library Reference
+ParameterName5=MF
 ParameterUpdate5=1
-ParameterName6=Manufacturer_Name
+ParameterName6=MP
 ParameterUpdate6=1
-ParameterName7=Manufacturer_Part_Number
+ParameterName7=Package
 ParameterUpdate7=1
-ParameterName8=Mouser Part Number
+ParameterName8=Price
 ParameterUpdate8=1
-ParameterName9=Mouser Price/Stock
+ParameterName9=Value
 ParameterUpdate9=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=TO254P483X1028X2284-3P
+ModelName0=SOP254P1016X400-4N
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=TO254P483X1028X2284-3P - extended
-ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
