@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetDIS_2 Pin=STM32-62
+Removed Pin From Net: NetName=NetDIS_3 Pin=STM32-63
+Added Component: Designator=LC(Level converter (4 ch))
+Added Component: Designator=PH(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PL(FP_CONN2_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=LC-1
+Added Pin To Net: NetName=GND Pin=LC-2
+Added Pin To Net: NetName=5V Pin=LC-7
+Added Pin To Net: NetName=GND Pin=LC-8
+Added Pin To Net: NetName=NetDIS_2 Pin=LC-9
+Added Pin To Net: NetName=NetDIS_3 Pin=LC-10
+Added Pin To Net: NetName=NetLC_3 Pin=LC-3
+Added Pin To Net: NetName=NetLC_3 Pin=STM32-62
+Added Net: Name=NetLC_3
+Added Pin To Net: NetName=NetLC_4 Pin=LC-4
+Added Pin To Net: NetName=NetLC_4 Pin=STM32-63
+Added Net: Name=NetLC_4
+Added Pin To Net: NetName=NetLC_5 Pin=LC-5
+Added Pin To Net: NetName=NetLC_5 Pin=PL-1
+Added Net: Name=NetLC_5
+Added Pin To Net: NetName=NetLC_6 Pin=LC-6
+Added Pin To Net: NetName=NetLC_6 Pin=PL-2
+Added Net: Name=NetLC_6
+Added Pin To Net: NetName=NetLC_11 Pin=LC-11
+Added Pin To Net: NetName=NetLC_11 Pin=PH-1
+Added Net: Name=NetLC_11
+Added Pin To Net: NetName=NetLC_12 Pin=LC-12
+Added Pin To Net: NetName=NetLC_12 Pin=PH-2
+Added Net: Name=NetLC_12
+Added Member To Class: ClassName=Sensors Member=Component LC Level converter (4 ch)
+Added Member To Class: ClassName=Sensors Member=Component PH Connector
+Added Member To Class: ClassName=Sensors Member=Component PL Connector
