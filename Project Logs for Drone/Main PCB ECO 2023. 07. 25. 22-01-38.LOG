@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=DIS Old Footprint=XCVR_HC-SR04 New Footprint=FP_CONN4_TUSKE_254MM
+Added Member To Class: ClassName=Sensors Member=Component P? Connector

@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=ESCDown Member=C21
+Removed Member From Class: ClassName=ESCDown Member=R6
+Added Member To Class: ClassName=PowerSupply Member=Component C19 100nF
+Added Member To Class: ClassName=PowerSupply Member=Component C20 1uF
+Added Member To Class: ClassName=ESCDown Member=Component C22 100nF
+Added Member To Class: ClassName=ESCDown Member=Component C23 100nF
+Added Member To Class: ClassName=Connectors Member=Component R5 10K
+Added Member To Class: ClassName=PowerSupply Member=Component R7 330R
+Added Member To Class: ClassName=PowerSupply Member=Component R8 150R
+Added Member To Class: ClassName=ESCDown Member=Component R9 ?K
+Added Member To Class: ClassName=ESCDown Member=Component R10 ?K
+Added Member To Class: ClassName=ESCDown Member=Component R11 130R

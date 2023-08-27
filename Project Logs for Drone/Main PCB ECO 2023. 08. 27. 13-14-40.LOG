@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=J2 Old Footprint=AMASS_XT90PW-F New Footprint=AMASS_XT60PW-F
+Change Component Footprint: Designator=J1 Old Footprint=AMASS_XT90PW-M New Footprint=AMASS_XT60PW-M
+Change Component Comment : Designator=J2 Old Comment=XT90PW-F New Comment=XT60PW-F
+Change Component Comment : Designator=J1 Old Comment=XT90PW-M New Comment=XT60PW-M
+Change component parameters: Designator = "J1" ("J1"); Footprint = "AMASS_XT90PW-M"; UniqueID = "\GMFWGRNY" ("\GMFWGRNY")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60PW-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "XT60PW-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60PW-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "AMASS_XT90PW-F"; UniqueID = "\TTIVQYBZ" ("\TTIVQYBZ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60PW-F/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "XT60PW-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60PW-F/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BGND Pin=J2-S1
+Added Pin To Net: NetName=BGND Pin=J2-S2
+Add Pin To Net: Unknown Pin: Pin PM-D
+Add Pin To Net: Unknown Pin: Pin PM-G
+Add Pin To Net: Unknown Pin: Pin PM-S

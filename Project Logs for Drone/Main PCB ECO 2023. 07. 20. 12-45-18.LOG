@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=ESCDown Member=PM
+Added Component: Designator=PM?(TO254P483X1028X2284-3P - extended)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/discrete_mosfets/littelfuse_discrete_mosfets_p-channel_ixt_120p065t_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IXTP120P065T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "747-IXTP120P065T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/IXYS/IXTP120P065T?qs=cvHLLyFtoE09fNdm%2Fv8mrw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetPM?_1 Pin=PM?-1
+Added Pin To Net: NetName=NetPM?_1 Pin=R11-2
+Added Pin To Net: NetName=NetPM?_1 Pin=R12-2
+Added Net: Name=NetPM?_1
+Added Member To Class: ClassName=ESCDown Member=Component PM? IXTP120P065T

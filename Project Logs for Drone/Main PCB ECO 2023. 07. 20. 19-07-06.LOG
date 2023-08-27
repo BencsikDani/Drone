@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=NetPE3_1 Pin=PE3-1
+Removed Pin From Net: NetName=GND Pin=PE3-2
+Removed Pin From Net: NetName=NetPH1_1 Pin=PH1-1
+Removed Pin From Net: NetName=NetPH1_2 Pin=PH1-2
+Removed Pin From Net: NetName=NetPE3_1 Pin=STM32-3
+Removed Pin From Net: NetName=NetPH1_1 Pin=STM32-40
+Removed Pin From Net: NetName=NetPH1_2 Pin=STM32-42
+Change Component Designator: OldDesignator=PD1 NewDesignator=PD2
+Change Component Designator: OldDesignator=PD2 NewDesignator=PD3
+Change Component Designator: OldDesignator=PD3 NewDesignator=PD1
+Change Component Designator: OldDesignator=PE1 NewDesignator=PE2
+Change Component Designator: OldDesignator=PE2 NewDesignator=PE1
+Change Component Designator: OldDesignator=PE3 NewDesignator=PH1
+Change Component Designator: OldDesignator=PH1 NewDesignator=PE3
+Added Pin To Net: NetName=NetPE3_1 Pin=PE3-1
+Added Pin To Net: NetName=GND Pin=PE3-4
+Added Pin To Net: NetName=NetPH1_1 Pin=PH1-1
+Added Pin To Net: NetName=NetPH1_2 Pin=PH1-2
+Added Pin To Net: NetName=NetPH1_1 Pin=STM32-12
+Added Pin To Net: NetName=NetPH1_2 Pin=STM32-13
+Added Pin To Net: NetName=NetPE3_1 Pin=STM32-38
+Change Net Name : Old Net Name=NetPD1_1 New Net Name=NetPD2_1
+Change Net Name : Old Net Name=NetPD1_2 New Net Name=NetPD2_2
+Change Net Name : Old Net Name=NetPD1_3 New Net Name=NetPD2_3
+Change Net Name : Old Net Name=NetPD1_4 New Net Name=NetPD2_4
+Change Net Name : Old Net Name=NetPD2_1 New Net Name=NetPD3_1
+Change Net Name : Old Net Name=NetPD2_2 New Net Name=NetPD3_2
+Change Net Name : Old Net Name=NetPD2_3 New Net Name=NetPD3_3
+Change Net Name : Old Net Name=NetPD2_4 New Net Name=NetPD3_4
+Change Net Name : Old Net Name=NetPD3_1 New Net Name=NetPD1_1
+Change Net Name : Old Net Name=NetPD3_2 New Net Name=NetPD1_2
+Change Net Name : Old Net Name=NetPD3_3 New Net Name=NetPD1_3
+Change Net Name : Old Net Name=NetPD3_4 New Net Name=NetPD1_4
+Change Net Name : Old Net Name=NetPE2_1 New Net Name=NetPE1_1
+Change Net Name : Old Net Name=NetPE2_2 New Net Name=NetPE1_2
+Change Net Name : Old Net Name=NetPE2_3 New Net Name=NetPE1_3
+Change Net Name : Old Net Name=NetPE2_4 New Net Name=NetPE1_4
+Added Pin To Net: NetName=NetPE2_1 Pin=PE2-1
+Added Pin To Net: NetName=NetPE2_1 Pin=STM32-3
+Added Net: Name=NetPE2_1
+Added Pin To Net: NetName=NetPE2_2 Pin=PE2-2
+Added Pin To Net: NetName=NetPE2_2 Pin=STM32-4
+Added Net: Name=NetPE2_2
+Added Pin To Net: NetName=NetPE2_3 Pin=PE2-3
+Added Pin To Net: NetName=NetPE2_3 Pin=STM32-5
+Added Net: Name=NetPE2_3
+Added Pin To Net: NetName=NetPE2_4 Pin=PE2-4
+Added Pin To Net: NetName=NetPE2_4 Pin=STM32-37
+Added Net: Name=NetPE2_4
+Added Pin To Net: NetName=NetPE3_2 Pin=PE3-2
+Added Pin To Net: NetName=NetPE3_2 Pin=STM32-40
+Added Net: Name=NetPE3_2
+Added Pin To Net: NetName=NetPE3_3 Pin=PE3-3
+Added Pin To Net: NetName=NetPE3_3 Pin=STM32-42
+Added Net: Name=NetPE3_3
