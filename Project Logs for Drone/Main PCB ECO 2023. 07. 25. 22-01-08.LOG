@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=5V Pin=PDIS-1
+Removed Pin From Net: NetName=GND Pin=PDIS-4
+Removed Pin From Net: NetName=GND Pin=PGPS-4
+Removed Pin From Net: NetName=5V Pin=PGPS-5
+Removed Member From Class: ClassName=Sensors Member=PDIS
+Removed Member From Class: ClassName=Sensors Member=PGPS
+Added Component: Designator=DIS(XCVR_HC-SR04)
+Added Component: Designator=GPS(FP_CONN5_TUSKE_254MM)
+Added Component: Designator=LC(Level converter (4 ch))
+Added Component: Designator=P?(FP_CONN4_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P?(FP_CONN4_TAP_254MM)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=DIS-1
+Added Pin To Net: NetName=GND Pin=DIS-4
+Added Pin To Net: NetName=5V Pin=GPS-1
+Added Pin To Net: NetName=GND Pin=GPS-2
+Added Pin To Net: NetName=NetDIS_2 Pin=DIS-2
+Added Pin To Net: NetName=NetDIS_2 Pin=STM32-62
+Added Net: Name=NetDIS_2
+Added Pin To Net: NetName=NetDIS_3 Pin=DIS-3
+Added Pin To Net: NetName=NetDIS_3 Pin=STM32-63
+Added Net: Name=NetDIS_3
+Added Pin To Net: NetName=NetGPS_3 Pin=GPS-3
+Added Pin To Net: NetName=NetGPS_3 Pin=STM32-22
+Added Net: Name=NetGPS_3
+Added Pin To Net: NetName=NetGPS_4 Pin=GPS-4
+Added Pin To Net: NetName=NetGPS_4 Pin=STM32-23
+Added Net: Name=NetGPS_4
+Added Pin To Net: NetName=NetGPS_5 Pin=GPS-5
+Added Pin To Net: NetName=NetGPS_5 Pin=STM32-24
+Added Net: Name=NetGPS_5
+Added Pin To Net: NetName=NetLC_3 Pin=LC-3
+Added Pin To Net: NetName=NetLC_3 Pin=P?-1
+Added Net: Name=NetLC_3
+Added Pin To Net: NetName=NetLC_4 Pin=LC-4
+Added Pin To Net: NetName=NetLC_4 Pin=P?-2
+Added Net: Name=NetLC_4
+Added Pin To Net: NetName=NetLC_5 Pin=LC-5
+Added Pin To Net: NetName=NetLC_5 Pin=P?-3
+Added Net: Name=NetLC_5
+Added Pin To Net: NetName=NetLC_6 Pin=LC-6
+Added Pin To Net: NetName=NetLC_6 Pin=P?-4
+Added Net: Name=NetLC_6
+Added Pin To Net: NetName=NetLC_9 Pin=LC-9
+Added Pin To Net: NetName=NetLC_9 Pin=P?-1
+Added Net: Name=NetLC_9
+Added Pin To Net: NetName=NetLC_10 Pin=LC-10
+Added Pin To Net: NetName=NetLC_10 Pin=P?-2
+Added Net: Name=NetLC_10
+Added Pin To Net: NetName=NetLC_11 Pin=LC-11
+Added Pin To Net: NetName=NetLC_11 Pin=P?-3
+Added Net: Name=NetLC_11
+Added Pin To Net: NetName=NetLC_12 Pin=LC-12
+Added Pin To Net: NetName=NetLC_12 Pin=P?-4
+Added Net: Name=NetLC_12
+Added Member To Class: ClassName=Sensors Member=Component DIS Távolságérzékelõ
+Added Member To Class: ClassName=Sensors Member=Component GPS
+Added Member To Class: ClassName=Sensors Member=Component LC Level converter (4 ch)
+Added Member To Class: ClassName=Sensors Member=Component P? Connector
+Added Member To Class: ClassName=Sensors Member=Component P? Connector

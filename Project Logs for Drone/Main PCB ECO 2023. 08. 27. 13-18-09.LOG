@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=PM Old Footprint=TO254P483X1028X2284-3P - extended New Footprint=TO254P483X1028X2284-3P
+Added Pin To Net: NetName=NetJ2_P Pin=PM-D
+Added Pin To Net: NetName=NetPM_G Pin=PM-G
+Added Pin To Net: NetName=NetJ1_P Pin=PM-S

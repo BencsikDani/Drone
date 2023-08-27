@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=BGND Pin=BATT-2
+Removed Pin From Net: NetName=BGND Pin=J1-N
+Removed Pin From Net: NetName=BGND Pin=J2-N
+Removed Pin From Net: NetName=BGND Pin=J2-S1
+Removed Pin From Net: NetName=BGND Pin=J2-S2
+Removed Pin From Net: NetName=GND Pin=O1-2
+Removed Pin From Net: NetName=NetGD_2 Pin=O1-3
+Removed Pin From Net: NetName=12V Pin=O1-4
+Change Component Footprint: Designator=BATT Old Footprint=CONN2_SORK_3.5mm New Footprint=AMASS_XT60PW-M
+Change Component Comment : Designator=BATT Old Comment=Connector New Comment=XT60PW-M
+Change Component Designator: OldDesignator=C16 NewDesignator=C17
+Change Component Designator: OldDesignator=C17 NewDesignator=C16
+Change component parameters: Designator = "BATT" ("BATT"); Footprint = "CONN2_SORK_3.5mm"; UniqueID = "\HUKWTDFX" ("\HUKWTDFX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60PW-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "XT60PW-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60PW-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ESC POWER(AMASS_XT60PW-F)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60PW-F/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60PW-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60PW-F/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=OC(SOP254P1016X400-4N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "VO615A-9X009T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BGND Pin=BATT-N
+Added Pin To Net: NetName=BGND Pin=ESC POWER-N
+Added Pin To Net: NetName=BGND Pin=ESC POWER-S1
+Added Pin To Net: NetName=BGND Pin=ESC POWER-S2
+Added Pin To Net: NetName=GND Pin=OC-2
+Added Pin To Net: NetName=NetGD_2 Pin=OC-3
+Added Pin To Net: NetName=12V Pin=OC-4
+Added Pin To Net: NetName=NetBATT_P Pin=BATT-P
+Added Pin To Net: NetName=NetBATT_P Pin=D8-K
+Added Pin To Net: NetName=NetBATT_P Pin=FUSE-1
+Added Pin To Net: NetName=NetBATT_P Pin=PM-S
+Added Net: Name=NetBATT_P
+Added Pin To Net: NetName=NetESC POWER_P Pin=ESC POWER-P
+Added Pin To Net: NetName=NetESC POWER_P Pin=PM-D
+Added Net: Name=NetESC POWER_P
+Added Pin To Net: NetName=NetOC_A Pin=R9-1
+Added Pin To Net: NetName=NetOC_A Pin=OC-1
+Added Net: Name=NetOC_A
+Change Class Name : Old Net Name=PowerSupply New Net Name=PowerAndSafety
+Added Member To Class: ClassName=PowerAndSafety Member=Component C22 100nF
+Added Member To Class: ClassName=PowerAndSafety Member=Component C23 100nF
+Added Member To Class: ClassName=PowerAndSafety Member=Component C24 1nF
+Added Member To Class: ClassName=PowerAndSafety Member=Component ESC POWER XT60PW-F
+Added Member To Class: ClassName=PowerAndSafety Member=Component GD TC4431VPA
+Added Member To Class: ClassName=PowerAndSafety Member=Component OC Optocoupler
+Added Member To Class: ClassName=PowerAndSafety Member=Component PM IXTP120P065T
+Added Member To Class: ClassName=PowerAndSafety Member=Component R9 200R
+Added Member To Class: ClassName=PowerAndSafety Member=Component R10 130R
+Added Member To Class: ClassName=PowerAndSafety Member=Component R11 10K
+Added Member To Class: ClassName=PowerAndSafety Member=Component R12 4K70

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P? Old Footprint=FP_CONN4_TAP_254MM New Footprint=FP_CONN4_TUSKE_254MM
+Change Component Footprint: Designator=P? Old Footprint=FP_CONN4_TAP_254MM New Footprint=FP_CONN4_TUSKE_254MM
+Added Member To Class: ClassName=Sensors Member=Component P? Connector
