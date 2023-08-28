@@ -1,7 +1,20 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Dani\Documents\_Egyetemi tárgyak\MSc\ÖnLab & DipTerv (MSc)\Altium\Drone\Main.PcbDoc
-Date     : 2022. 12. 11.
-Time     : 19:01:51
+PCB File : G:\Saját meghajtó\Egyetem\MSc\ÖnLab & DipTerv (MSc)\Altium\Drone\Main.PcbDoc
+Date     : 2023. 08. 28.
+Time     : 9:13:32
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: FULL On Top Layer
+   Polygon named: FULL On Top Layer
+
+Processing Rule : Clearance Constraint (Gap=7.874mil) (HasFootprint('LQFP144-20x20mm')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7.874mil) (HasFootprint('USB4056-03-A_REVA2')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7.874mil) (HasFootprint('LQFP144-20x20mm')),(All)
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=7.874mil) (All),(All)
 Rule Violations :0
@@ -9,10 +22,7 @@ Rule Violations :0
 Processing Rule : Clearance Constraint (Gap=7.874mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=7.874mil) (HasFootprint('LQFP144-20x20mm')),(All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=7.874mil) (HasFootprint('LQFP144-20x20mm')),(All)
+Processing Rule : Clearance Constraint (Gap=7.874mil) (HasFootprint('USB4056-03-A_REVA2')),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -24,7 +34,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=20mil) (All)
+Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=20mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -33,20 +43,42 @@ Rule Violations :0
 Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=250mil) (All)
 Rule Violations :0
 
+Processing Rule : Hole To Hole Clearance (Gap=15.748mil) (HasFootprint('USB4056-03-A_REVA2')),(All)
+Rule Violations :0
+
 Processing Rule : Hole To Hole Clearance (Gap=19.685mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=5.512mil) (HasFootprint('LQFP144-20x20mm')),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (HasFootprint('USB4056-03-A_REVA2')),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=7.874mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=5.906mil) (IsPad),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=7.677mil) (HasFootprint('LQFP100-14x14mm')),(All)
 Rule Violations :0
 
+Processing Rule : Silk To Solder Mask (Clearance=5.906mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5.906mil) Between Pad D6-A(-1180.354mil,770mil) on Top Layer And Text "R5" (-1279.93mil,711.07mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5.906mil) Between Pad GD-4(-1266.26mil,-615mil) on Multi-Layer And Text "D11" (-1248.319mil,-668.655mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.24mil < 5.906mil) Between Pad GD-4(-1266.26mil,-615mil) on Multi-Layer And Track (-1235.433mil,-611.772mil)(-1164.567mil,-611.772mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.24mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.24mil < 5.906mil) Between Pad GD-4(-1266.26mil,-615mil) on Multi-Layer And Track (-1235.433mil,-611.772mil)(-1235.433mil,-458.228mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.24mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.307mil < 5.906mil) Between Pad LDO-3(-1260.551mil,-160.984mil) on Top Layer And Track (-1297.716mil,-119.291mil)(-1222.913mil,-119.291mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.307mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5.906mil) Between Pad PB1-2(1430mil,1030mil) on Multi-Layer And Text "C8" (1336.678mil,1039.994mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5.906mil) Between Pad PB1-3(1430mil,930mil) on Multi-Layer And Text "C3" (1336.678mil,954.994mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5.906mil) Between Pad PC1-1(130mil,730mil) on Multi-Layer And Text "C11" (192.689mil,690.006mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5.906mil) Between Pad PC1-2(130mil,630mil) on Multi-Layer And Text "C10" (194.984mil,600.006mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5.906mil) Between Pad PD1-3(530mil,1430mil) on Multi-Layer And Text "C9" (580.07mil,1370.07mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5.906mil) Between Pad PE3-2(530mil,130mil) on Multi-Layer And Text "C6" (506.678mil,199.994mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+Rule Violations :11
+
 Processing Rule : Silk to Silk (Clearance=5.906mil) (All),(All)
-Rule Violations :0
+   Violation between Silk To Silk Clearance Constraint: (3.355mil < 5.906mil) Between Text "C2" (963.322mil,375.636mil) on Bottom Overlay And Text "C7" (1043.322mil,375.007mil) on Bottom Overlay Silk Text to Silk Clearance [3.355mil]
+   Violation between Silk To Silk Clearance Constraint: (3.348mil < 5.906mil) Between Text "PA1" (1493.348mil,730.006mil) on Top Overlay And Track (1480mil,380mil)(1480mil,780.394mil) on Top Overlay Silk Text to Silk Clearance [3.348mil]
+   Violation between Silk To Silk Clearance Constraint: (3.348mil < 5.906mil) Between Text "PC1" (193.348mil,730.006mil) on Top Overlay And Track (180mil,379.606mil)(180mil,780mil) on Top Overlay Silk Text to Silk Clearance [3.348mil]
+   Violation between Silk To Silk Clearance Constraint: (5.006mil < 5.906mil) Between Text "PRST" (1246.69mil,-244.994mil) on Top Overlay And Track (1175mil,-190mil)(1475mil,-190mil) on Top Overlay Silk Text to Silk Clearance [5.006mil]
+   Violation between Silk To Silk Clearance Constraint: (1.936mil < 5.906mil) Between Text "R5" (-1279.93mil,711.07mil) on Top Overlay And Track (-1401.811mil,699.134mil)(-1116mil,699.134mil) on Top Overlay Silk Text to Silk Clearance [1.936mil]
+Rule Violations :5
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -54,7 +86,11 @@ Rule Violations :0
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
+Waived Violations Of Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+   Waived Violation between Modified Polygon: Polygon Shelved  (FULL) on Top Layer Waived by Daniel Zoltan Bencsik at 2023. 08. 28. 8:14:53The "FULL" Polygon is just a dummy.
+Waived Violations :1
 
-Violations Detected : 0
-Waived Violations : 0
+
+Violations Detected : 16
+Waived Violations : 1
 Time Elapsed        : 00:00:01
