@@ -1,0 +1,2 @@
+Change Net Name : Old Net Name=NetESC POWER_P New Net Name=NetPM_D
+Added Member To Class: ClassName=Sensors Member=Component C17 100nF

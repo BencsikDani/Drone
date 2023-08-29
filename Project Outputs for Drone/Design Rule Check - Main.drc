@@ -1,7 +1,16 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Dani\Documents\_Egyetemi tárgyak\MSc\ÖnLab & DipTerv (MSc)\Altium\Drone\Main.PcbDoc
-Date     : 2022. 12. 11.
-Time     : 19:01:51
+PCB File : G:\Saját meghajtó\Egyetem\MSc\ÖnLab & DipTerv (MSc)\Altium\Drone\Main.PcbDoc
+Date     : 2023. 08. 29.
+Time     : 18:07:03
+
+Processing Rule : Clearance Constraint (Gap=7.874mil) (HasFootprint('LQFP144-20x20mm')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7.874mil) (HasFootprint('USB4056-03-A_REVA2')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7.874mil) (HasFootprint('LQFP144-20x20mm')),(All)
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=7.874mil) (All),(All)
 Rule Violations :0
@@ -9,10 +18,7 @@ Rule Violations :0
 Processing Rule : Clearance Constraint (Gap=7.874mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=7.874mil) (HasFootprint('LQFP144-20x20mm')),(All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=7.874mil) (HasFootprint('LQFP144-20x20mm')),(All)
+Processing Rule : Clearance Constraint (Gap=7.874mil) (HasFootprint('USB4056-03-A_REVA2')),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -24,7 +30,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=20mil) (All)
+Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=20mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -33,13 +39,19 @@ Rule Violations :0
 Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=250mil) (All)
 Rule Violations :0
 
+Processing Rule : Hole To Hole Clearance (Gap=15.748mil) (HasFootprint('USB4056-03-A_REVA2')),(All)
+Rule Violations :0
+
 Processing Rule : Hole To Hole Clearance (Gap=19.685mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=5.512mil) (HasFootprint('LQFP144-20x20mm')),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (HasFootprint('USB4056-03-A_REVA2')),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=7.874mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=7.677mil) (HasFootprint('LQFP100-14x14mm')),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=5.906mil) (IsPad),(All)

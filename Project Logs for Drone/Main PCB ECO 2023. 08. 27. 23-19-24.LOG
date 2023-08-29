@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3.3V Pin=BH-+
+Removed Pin From Net: NetName=3.3V Pin=STM32-6
+Added Pin To Net: NetName=BATT Pin=BH-+
+Added Pin To Net: NetName=BATT Pin=STM32-6
+Added Net: Name=BATT
