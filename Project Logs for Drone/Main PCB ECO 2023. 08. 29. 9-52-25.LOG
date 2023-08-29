@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetPB1_3 Pin=STM32-69
+Removed Pin From Net: NetName=NetPA1_4 Pin=STM32-70
+Removed Pin From Net: NetName=NetPB1_1 Pin=STM32-71
+Removed Pin From Net: NetName=NetPB1_2 Pin=STM32-77
+Added Pin To Net: NetName=NetPA1_4 Pin=STM32-69
+Added Pin To Net: NetName=NetPB1_1 Pin=STM32-70
+Added Pin To Net: NetName=NetPB1_2 Pin=STM32-71
+Added Pin To Net: NetName=NetPB1_3 Pin=STM32-77
+Added Member To Class: ClassName=Connectors Member=Component PESP2 Connector
+Added Member To Class: ClassName=Connectors Member=Component PESP5 Connector
+Added Member To Class: ClassName=Connectors Member=Component PESP6 Connector
