@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : G:\Saját meghajtó\Egyetem\MSc\ÖnLab & DipTerv (MSc)\Altium\Drone\Main.PcbDoc
-Date     : 2023. 08. 29.
-Time     : 18:07:03
+Date     : 2023. 08. 30.
+Time     : 22:18:51
 
 Processing Rule : Clearance Constraint (Gap=7.874mil) (HasFootprint('LQFP144-20x20mm')),(All)
 Rule Violations :0
@@ -69,4 +69,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
